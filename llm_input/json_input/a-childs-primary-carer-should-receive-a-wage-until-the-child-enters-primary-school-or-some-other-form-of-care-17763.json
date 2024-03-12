@@ -1,0 +1,235 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "A child's primary carer should receive a wage from the government until the child enters primary school or some other form of care."
+    },
+    {
+      "id": "1.1.",
+      "text": "The government may interfere more in parenting practices if the parent essentially becomes an employee."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "This can be prevented by making the wage unconditional but for the requirement to be a primary carer to a child."
+    },
+    {
+      "id": "1.1.2.",
+      "text": "Honestly, this would sometimes be a GOOD thing. There are loads of inattentive, lazy, or bad parents out there who allow or encourage their children to do things that are immoral, or damaging to society or the environment. Some parents encourage bigotry (racism, sexism, other social 'phobias'), turn a blind eye to shoplifting and other petty crime, encourage animal abuse like throwing rocks at strays, or think education or vaccines are optional."
+    },
+    {
+      "id": "1.2.",
+      "text": "The primary caregiver, usually the parent, chose to have a kid. Society should not be obligated to pay them to deal with their choices."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "The sense of the state is precisely to help its citizens providing them equal opportunities. This measure might help low-income families."
+    },
+    {
+      "id": "1.2.1.1.",
+      "text": "There is no other reason for the state to exist than making sure all citizens can live a dignified life. \u200b"
+    },
+    {
+      "id": "1.3.",
+      "text": "Such a measure may solve the challenge of low population growth confronting many nations."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "Low population growth is good for our overpopulated planet"
+    },
+    {
+      "id": "1.3.1.1.",
+      "text": "In developed countries, low birthrates are a major social issueas ageing populations require substantial state support while a shrinking workforce is less able to fund that support."
+    },
+    {
+      "id": "1.3.2.",
+      "text": "This kind of measure would provide an economic incentive for people to have children."
+    },
+    {
+      "id": "1.3.2.1.",
+      "text": "This could cause lazy people to just keep having kids for money."
+    },
+    {
+      "id": "1.4.",
+      "text": "Raising a child is just as much, if not more, work than jobs which traditionally receive economic reward."
+    },
+    {
+      "id": "1.4.1.",
+      "text": "Child rearing has not been acknowledged as work deserving of financial reward in the past because it was almost exclusively completed by women in a a patriarchal society."
+    },
+    {
+      "id": "1.5.",
+      "text": "Child raising benefits society just as much as any other job and therefore should receive economic recognition."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "The birth of new children is crucial for the maintenance of a substantial workforce, without which an industrial economy can no longer function."
+    },
+    {
+      "id": "1.5.1.1.",
+      "text": "Many countries are approaching below replacement fertility rates which may make them economically unsustainable."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "Despite societal benefits, monetary exchanges are given by private bodies in exchange for work that produces economic benefits, which is not the case of child raising."
+    },
+    {
+      "id": "1.5.2.1.",
+      "text": "Monetary exchanges also occur between governments and individuals."
+    },
+    {
+      "id": "1.6.",
+      "text": "Child raising is the responsibility of the family."
+    },
+    {
+      "id": "1.7.",
+      "text": "People should have children for love, not money."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "People could start having children for money, which would cheapen the parental experience."
+    },
+    {
+      "id": "1.7.2.",
+      "text": "Raising children is extremely expensive. This wage would likely offset some of the cost of having a child, but it would not make childrearing profitable."
+    },
+    {
+      "id": "1.8.",
+      "text": "Such a measure may not be economically viable."
+    },
+    {
+      "id": "1.8.1.",
+      "text": "In Germany, parents receive an allowance for each child already. This is feasible."
+    },
+    {
+      "id": "1.8.2.",
+      "text": "Money spent on this policy will generate economic activity as recipients spend it on goods and services, helping it to pay for itself."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.1.1.",
+      "target": "1.2.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.1.1.",
+      "target": "1.3.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.2.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.2.1.",
+      "target": "1.3.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.1.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.1.",
+      "target": "1.5.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.2.1.",
+      "target": "1.5.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.2.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.1.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.2.",
+      "target": "1.8.",
+      "type": "attack"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Are crop circles made by extraterrestrials?"
+    },
+    {
+      "id": "1.1.",
+      "text": "If crop circles are made by extraterrestrials, we have to accept 2 things: Firstly, extraterrestrials are on this planet, and secondly, they are trying to contact us. With todays technology, it is impossible to move in the atmosphere using an aircraft without detection. If they are here trying to make contact, they are well aware of our technology and our advances in communications, and they would probably use channels that can direct them to scientists and politicians, not farmers."
+    },
+    {
+      "id": "1.2.",
+      "text": "There are no credible witnesses or creators of crop circles that have been replicated."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "There is no credible proof of aliens."
+    },
+    {
+      "id": "1.2.1.1.",
+      "text": "Many high ranking military and government agents discussed their knowledge of an extraterrestrial presence at an international news conference in 2001 youtu.be"
+    },
+    {
+      "id": "1.2.2.",
+      "text": "Unless every single crop circle ever made has an explanation, this leaves the window open to the possibility of some undiscovered force or life form causing them. A lot like a court room, all you need is reasonable doubt."
+    },
+    {
+      "id": "1.3.",
+      "text": "They are too complicated and intricate to be done at night and by the assumed methods"
+    },
+    {
+      "id": "1.4.",
+      "text": "Extraterrestrials would just make contact with humans directly and not use crop circles"
+    },
+    {
+      "id": "1.4.1.",
+      "text": "If they can make crop circles, they can use radio or anything else for that matter."
+    },
+    {
+      "id": "1.4.2.",
+      "text": "There is clearly a bigger reason for the circles. If they have the technology to get here it\u2019s obvious they have the same technology as us. Or they have tried to contact certain governments and did not get the response they wanted so now they are trying to contact the average person in way that doesn\u2019t scare like with direct contact."
+    },
+    {
+      "id": "1.5.",
+      "text": "The majority of crop circles are just abstract and have no meaning."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "They have no meaning that humans can currently determine; this doesn't mean they don't have meaning, just that we don't understand it."
+    },
+    {
+      "id": "1.5.1.1.",
+      "text": "Most of them look like something that a bored logo designer would do."
+    },
+    {
+      "id": "1.5.1.1.1.",
+      "text": "Most of them. But there are a handful that are too large and intricate to have been done in this fashion. All you need is one that can\u2019t be explained to give validity to the whole cause."
+    },
+    {
+      "id": "1.5.1.1.2.",
+      "text": "This is solely subjective."
+    },
+    {
+      "id": "1.6.",
+      "text": "There has been slight detection of radiation and other phenomenon at crop circles sites cropcirclesecrets.org"
+    },
+    {
+      "id": "1.6.1.",
+      "text": "You can find a slight detection of radiation anywhere. Radon gas can even leak into your own basement."
+    },
+    {
+      "id": "1.6.2.",
+      "text": "This paper was written about a study done on crop circles. It looks at the different physical characteristics of the plant and the conclusion is for that particular case there is still no clear cause. cdn.fbsbx.com"
+    },
+    {
+      "id": "1.7.",
+      "text": "People have already come forward as the makers of crop circles and have shown how they did it."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "This proves that they're exclusively the product of humans. There is no further proof needed."
+    },
+    {
+      "id": "1.7.1.1.",
+      "text": "There is only anecdotal evidence of certain crop circles. Many have no foot prints leading to and from them. Most are to complex and large to be done at night with wooden boards."
+    },
+    {
+      "id": "1.7.2.",
+      "text": "This evidence is only really seem to be anecdotal; the demonstrations have been elementary in nature and only can explain a small percentage of the phenomenon."
+    },
+    {
+      "id": "1.8.",
+      "text": "Some crop circles have the plant's stalk bent but not broken. If humans were the creators they simply would not be able to keep all of the plants intact."
+    },
+    {
+      "id": "1.8.1.",
+      "text": "The fact that we currently lack an explanation for a phenomenon does not automatically allow us to jump to a random explanation for that phenomenon."
+    },
+    {
+      "id": "1.8.1.1.",
+      "text": "True, but the idea is not random. It may just seem that way because of the lack of attention shown on the subject. Lack of knowledge doesn\u2019t mean something is true nor false."
+    },
+    {
+      "id": "1.9.",
+      "text": "It has been theorised that crop circles are a 2 dimensional representation of a 3-D image. The 3-D image in some cases has thought to be a device or technology of limitless power. They are trying to convey this to us as we are still stuck on fossil fuels."
+    },
+    {
+      "id": "1.9.1.",
+      "text": "Limitless power, or \"perpetuum mobile\" is impossible."
+    },
+    {
+      "id": "1.9.2.",
+      "text": "This is just a hypothesis. But if by some miracle they have mastered interstellar travel their technology would far greater then would could even comprehend. So yes it is impossible to our understanding. Just like basic math is \u201cimpossible\u201d to a dog."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.1.1.",
+      "target": "1.2.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.2.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.1.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.2.",
+      "target": "1.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.1.",
+      "target": "1.5.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.1.1.",
+      "target": "1.5.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.1.2.",
+      "target": "1.5.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.1.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.2.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.1.1.",
+      "target": "1.7.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.2.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.1.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.1.1.",
+      "target": "1.8.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.1.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.2.",
+      "target": "1.9.",
+      "type": "support"
+    }
+  ]
+}

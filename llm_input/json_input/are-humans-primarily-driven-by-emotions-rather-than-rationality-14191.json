@@ -1,0 +1,173 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Humans are primarily driven by emotions, rather than rationality."
+    },
+    {
+      "id": "1.1.",
+      "text": "Societies at large act rationally. This allows us to infer that the individuals that make up society are rational too."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "Macroeconomic developments, such as the Phillips curve, follow rational expectations."
+    },
+    {
+      "id": "1.1.1.1.",
+      "text": "Market anomalies exist, showing that many actions taken by market participants are irrational, affecting markets in micro and macro scale."
+    },
+    {
+      "id": "1.1.2.",
+      "text": "Decisions to go to war often involve emotional responses, such as invading Afghanistan after 9/11."
+    },
+    {
+      "id": "1.1.2.1.",
+      "text": "While the people may have supported the invasion due to an emotional/populist basis, the American government may have had a rational reason to invade, namely to bolster their geopolitical influence in the Middle East."
+    },
+    {
+      "id": "1.1.3.",
+      "text": "Societal structure would collapse under purely emotional policy-making."
+    },
+    {
+      "id": "1.1.4.",
+      "text": "Humans are capable of rational thought but this does not demonstrate that we are not primarily driven by emotions."
+    },
+    {
+      "id": "1.2.",
+      "text": "Rationality is judged subjectively, which makes the very definition of rationality untenable."
+    },
+    {
+      "id": "1.3.",
+      "text": "We look back on a great number of our actions and decisions and realise we may have acted in a more rational way."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "This reflective process suggests that humans privilege rational thinking over emotional thinking."
+    },
+    {
+      "id": "1.4.",
+      "text": "Thought experiments repeatedly illustrate our decisions are swayed by emotional factors."
+    },
+    {
+      "id": "1.4.1.",
+      "text": "Simple and classical test - the trolley problem. In the classical example, when there are 5 strangers vs 1 stranger, the results are simple - save 5 strangers. But when the one person is a relative, most people change their mind and decide to kill the five."
+    },
+    {
+      "id": "1.5.",
+      "text": "Humans are highly subjective to emotional rhetoric, (e.g. Populism) suggesting a tendency towards subconscious decision-making."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "The fact humans are highly subjective to it, but not entirely driven by it in every instance, suggests that what is happening here is more a battle between rationality and emotionalism, whereby in the case of populism emotions win out. It does not, however, suggest rationality is non-existent."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "The manipulation of emotion, rather than rationality, in advertising is demonstrative of the market's acknowledgement that people make choices based more on emotion."
+    },
+    {
+      "id": "1.6.",
+      "text": "The great number of scientific revelations and breakthroughs  made worldwide would have been impossible without rational thought."
+    },
+    {
+      "id": "1.7.",
+      "text": "We have evolved to become self-conscious, which is impossible to achieve with emotions alone."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.1.1.",
+      "target": "1.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.1.",
+      "target": "1.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.3.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.4.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.4.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.4.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.1.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    }
+  ]
+}

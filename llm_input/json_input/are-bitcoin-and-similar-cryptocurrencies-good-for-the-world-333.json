@@ -1,0 +1,3029 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Cryptocurrencies, such as Bitcoin and others, are beneficial for the world."
+    },
+    {
+      "id": "1.1.",
+      "text": "Handling and storing cryptocurrencies is less safe for ordinary consumers than simply using cash."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "Transferring large amounts of cash has a high risk of detection."
+    },
+    {
+      "id": "1.1.1.1.",
+      "text": "Only relatively small amounts of cash are allowed to be carried by individuals crossing borders."
+    },
+    {
+      "id": "1.1.1.2.",
+      "text": "The amount of value transferrable via cash payment is limited to physical constraints (e.g. 10 million dollars in 100 dollar bills weigh approx. 100kg)."
+    },
+    {
+      "id": "1.1.2.",
+      "text": "No sane person stores huge amounts of legally obtained cash at home either."
+    },
+    {
+      "id": "1.1.2.1.",
+      "text": "Cryptocurrencies are not designed for storing your savings and gaining interest."
+    },
+    {
+      "id": "1.1.2.1.1.",
+      "text": "Cryptocurrencies are a currency like any other currency and currencies are used as a store of value."
+    },
+    {
+      "id": "1.1.2.1.2.",
+      "text": "There certainly could be a \"bank\" that would do traditional saving and lending and thus even give you interest on your cryptocurrency holdings."
+    },
+    {
+      "id": "1.1.2.1.3.",
+      "text": "The IRS classifies Bitcoins as an investment, rather than a currency, which means people have to pay capital gains tax on any profits derived from it."
+    },
+    {
+      "id": "1.1.2.2.",
+      "text": "Storing money at home is very common among old people."
+    },
+    {
+      "id": "1.1.2.2.1.",
+      "text": "Some people store their money at home, because they do not trust the banking system. Especially in times of worldwide economic crises."
+    },
+    {
+      "id": "1.1.3.",
+      "text": "Handling large stashes of cash is cumbersome and it is difficult to use this money in the normal economy."
+    },
+    {
+      "id": "1.1.4.",
+      "text": "Even service providers such as exchanges and wallet apps are not a secure way of holding cryptocurrency assets."
+    },
+    {
+      "id": "1.1.4.1.",
+      "text": "There have been a number of major Bitcoin thefts."
+    },
+    {
+      "id": "1.1.4.1.1.",
+      "text": "Bitcoin Savings & Trust was a Ponzi scheme that cost its victims 265,678 bitcoins."
+    },
+    {
+      "id": "1.1.4.1.2.",
+      "text": "MyBitcoin had 78739 Bitcoins stolen."
+    },
+    {
+      "id": "1.1.5.",
+      "text": "A question of personal usage. Your cash is as secure as your wallet, so are bitcoins. You can make these more secure by your own means, you can not do so with all other forms of electronic payment. This differs from all other systems as the money is in your 'wallet' and under your control."
+    },
+    {
+      "id": "1.1.6.",
+      "text": "Crypto hacking is a $200 million annual revenue industry."
+    },
+    {
+      "id": "1.1.6.1.",
+      "text": "The frequency and severity of thefts is increasing."
+    },
+    {
+      "id": "1.2.",
+      "text": "Cash is a necessary part of any functional society's economic model and cryptocurrencies are an easier and online-ready form of cash. They are the natural progression of what money is becoming in the digital age."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "Using cryptocurrencies for online transactions can be faster than traditional payment solutions. For example, Nano (aka RaiBlocks) allows near-instantaneous transactions, not comparable to traditional and extremely slow SEPA transfers."
+    },
+    {
+      "id": "1.2.2.",
+      "text": "Cryptocurrencies do not simplify payments compared to credit cards: customers just need to provide an address, their card number, expiration date and security code to pay."
+    },
+    {
+      "id": "1.2.3.",
+      "text": "The security problems with Bitcoins are the same as with online banking or credit cards."
+    },
+    {
+      "id": "1.2.3.1.",
+      "text": "A user's transaction, no matter which means are used, needs to be authorized by the user. That problem stays the same."
+    },
+    {
+      "id": "1.2.3.2.",
+      "text": "Phishing affects cryptocurrency services just as much as traditional banking."
+    },
+    {
+      "id": "1.2.3.2.1.",
+      "text": "Bitcoins are just a currency, thus phishing, meaning masquerading as somebody else and sending you an email asking to transfer bitcoins to an attackers account, is still possible."
+    },
+    {
+      "id": "1.2.3.2.1.1.",
+      "text": "I send you an email, posing as your cryptocurrency \"bank\", saying that you should login and provide you with a fake URL, that you mistakenly click and where you enter your details. Voila, now I have your cryptocurrency bank details. This is a classical phishing attack. Just like the phishing attacks on paypal and online banking accounts."
+    },
+    {
+      "id": "1.2.3.2.2.",
+      "text": "Phishing is actually much easier with bitcoins, as there is next to no way of getting back the money once you have noticed that it was a phishing attack."
+    },
+    {
+      "id": "1.2.3.2.2.1.",
+      "text": "In the case of credit cards, customers can often reverse or block a transaction, provided they do so within a matter of days."
+    },
+    {
+      "id": "1.2.3.2.2.2.",
+      "text": "Banks normally have daily limits for your protection as to how much you can transfer per day. As of now, cryptocurrencies have none, so all your cryptocurrencies could be transferred maliciously or by mistake in the blink of a second."
+    },
+    {
+      "id": "1.2.3.2.2.3.",
+      "text": "Banks can cancel transactions if you are quick enough."
+    },
+    {
+      "id": "1.2.4.",
+      "text": "Cryptocurrencies don't need a central entity like banks, VISA/Mastercard or PayPal to verify and mediate transactions."
+    },
+    {
+      "id": "1.2.5.",
+      "text": "Any amount of cryptocurrency is easy and efficient to store on a computer, requiring no physical storage space."
+    },
+    {
+      "id": "1.3.",
+      "text": "Most ordinary citizens would not use such a currency anyway, rendering all potential benefits mute."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "Cryptocurrencies are considered complicated, obscure and unstable by most people, all of which make mass adoption highly unlikely."
+    },
+    {
+      "id": "1.3.2.",
+      "text": "All potential benefits in terms of convenience, which might lure citizens to use cryptocurrencies, are already provided by existing digital payment methods."
+    },
+    {
+      "id": "1.3.3.",
+      "text": "Huge companies gathering all payment information of\u00a0citizens\u00a0is bad for society."
+    },
+    {
+      "id": "1.3.3.1.",
+      "text": "Citizens have no control over whether their information is stored securely by the companies who collect it, which can lead to malicious agents acquiring it."
+    },
+    {
+      "id": "1.3.3.2.",
+      "text": "Consumer data can contribute to the creation of \"big data profiles\" for individual citizens, which can be misused for political manipulation and in other morally dubious ways."
+    },
+    {
+      "id": "1.3.3.3.",
+      "text": "In the US, most Internet services that regular users use today are free. On these websites, users generally do not expose themselves to being tracked via payment methods."
+    },
+    {
+      "id": "1.3.3.4.",
+      "text": "Relevant targeted advertisements are based on knowing the customer."
+    },
+    {
+      "id": "1.3.3.4.1.",
+      "text": "At least relevant advertising would be less annoying than untargeted advertising for goods and services that are completely irrelevant for users."
+    },
+    {
+      "id": "1.3.3.4.2.",
+      "text": "People do not need that kind of advertisement - they know themselves better than any company and can just google the stuff they want."
+    },
+    {
+      "id": "1.3.3.5.",
+      "text": "By gathering all your payments, companies can provide excellent anti-fraud systems, thus lowering the amount of fraud and the cost of payment services for\u00a0the consumer."
+    },
+    {
+      "id": "1.3.3.6.",
+      "text": "Society requires there to be records of payments, as these are primary means for fighting tax evasion, so somebody has to keep these, whether it is many small or some big companies, does not matter."
+    },
+    {
+      "id": "1.3.3.7.",
+      "text": "A lot of companies will sell all your personal details for their own advantage, regardless of the customers' benefit."
+    },
+    {
+      "id": "1.3.3.7.1.",
+      "text": "People get a lot of spam because of the way their information is passed on to their real customers, advertising companies."
+    },
+    {
+      "id": "1.3.4.",
+      "text": "With a cryptocurrency, people wouldn't be able to participate in bonus systems, like payback, which track and analyze all purchases."
+    },
+    {
+      "id": "1.3.4.1.",
+      "text": "There is no evidence that bonus systems are the determining factor when people decide which payment system to use. If it was, cash would've long been eliminated."
+    },
+    {
+      "id": "1.3.4.2.",
+      "text": "Systems that allow functionality such as payback can be built on top of cryptocurrencies by third parties."
+    },
+    {
+      "id": "1.3.5.",
+      "text": "Many people would prefer to keep purchases intended as surprise gifts secret."
+    },
+    {
+      "id": "1.3.5.1.",
+      "text": "Few to no people will go through the trouble of using cryptocurrencies for a mere surprise present."
+    },
+    {
+      "id": "1.3.5.2.",
+      "text": "These people can simply use cash to make their purchases."
+    },
+    {
+      "id": "1.3.5.3.",
+      "text": "This really is not very significant, compared to fighting organized crime's money laundering."
+    },
+    {
+      "id": "1.3.5.3.1.",
+      "text": "Cryptocurrencies enable or encourage illegal activities."
+    },
+    {
+      "id": "1.3.5.3.1.1.",
+      "text": "The police are getting better and better at tracking Bitcoin address owners. It is a serious security industry these days, with lots of developments and investment."
+    },
+    {
+      "id": "1.3.5.3.1.2.",
+      "text": "That's the same as saying that the guilt of a murder is the weapon and not the murderer."
+    },
+    {
+      "id": "1.3.5.3.1.3.",
+      "text": "Cryptocurrencies make money laundering much easier."
+    },
+    {
+      "id": "1.3.5.3.1.3.1.",
+      "text": "A number of criminal organisations have already successfully used cryptocurrencies to launder money - usually, they just withdraw it in small batches of cash in the end."
+    },
+    {
+      "id": "1.3.5.3.1.3.2.",
+      "text": "In April 2018, Europol uncovered a crime network that used cryptocurrencies to launder more than 8 million euros of drug money."
+    },
+    {
+      "id": "1.3.5.3.1.3.3.",
+      "text": "It is not easier to launder money using cryptocurrencies. The laundering always means you have to make it seem like the money was earned legally. You will have the same problems, no matter if it is Bitcoin, cash or money on offshore accounts."
+    },
+    {
+      "id": "1.3.5.3.1.3.3.2.",
+      "text": "When laundering money, money has to flow from one entity to another. This part of the process can be obscured with cryptocurrencies as there is no entity overseeing these financial flows."
+    },
+    {
+      "id": "1.3.5.3.1.3.4.",
+      "text": "The former CEO of a Bitcoin exchange company was sentenced to two years in prison for helping to sell nearly one million dollars in Bitcoin that had been used for drug purchases on Silk Road."
+    },
+    {
+      "id": "1.3.5.3.1.4.",
+      "text": "Cryptocurrencies enable tax evasion."
+    },
+    {
+      "id": "1.3.5.3.1.4.1.",
+      "text": "Cryptocurrencies allow people to transfer money from A to B without a trace and thus receive untaxed income."
+    },
+    {
+      "id": "1.3.5.3.1.4.2.",
+      "text": "Tax evaders do not even need to open a bank account in shady places anymore to hide their money away from the eyes of tax authorities."
+    },
+    {
+      "id": "1.3.5.3.1.4.2.1.",
+      "text": "At least bank accounts were associated with a face and often also a name, even if it only was a number account in Switzerland."
+    },
+    {
+      "id": "1.3.5.3.1.5.",
+      "text": "Payments in cash are largely untraceable, allowing them to be used to fund illegal activities just as easily."
+    },
+    {
+      "id": "1.3.5.3.1.5.1.",
+      "text": "Payments in cash require physical presence, making it always potentially more traceable than cryptocurrencies."
+    },
+    {
+      "id": "1.3.5.3.1.6.",
+      "text": "Cryptocurrencies make it easier to purchase and sell illegal goods and services."
+    },
+    {
+      "id": "1.3.5.3.1.6.2.",
+      "text": "The creation of an \"assassination market\", where you can contribute Bitcoins to place a bounty on major government figures, is one byproduct of cryptocurrencies."
+    },
+    {
+      "id": "1.3.5.3.1.6.3.",
+      "text": "Silk Road, once one of the major services empowered by Bitcoin, was basically only selling illegal services and goods."
+    },
+    {
+      "id": "1.3.5.3.1.6.3.1.",
+      "text": "Silk Road got busted. It shows that even if the system is anonymous there will still be consequences for committing crimes."
+    },
+    {
+      "id": "1.3.5.3.1.6.4.",
+      "text": "Cryptocurrencies make it easier for consumers to acquire banned products such as child pornography."
+    },
+    {
+      "id": "1.3.5.3.1.6.4.1.",
+      "text": "Sellers are afraid that money will be traced back to them in the status quo, but this changes with untraceable cryptocurrencies."
+    },
+    {
+      "id": "1.3.5.3.1.6.5.",
+      "text": "It simplifies funding of terrorists."
+    },
+    {
+      "id": "1.3.5.3.1.6.5.1.",
+      "text": "Cryptocurrencies enable terrorist groups to avoid the global banking system, which has specific regulations to combat terrorist financing."
+    },
+    {
+      "id": "1.3.5.3.1.6.5.2.",
+      "text": "As of 2017, terrorist groups' use of virtual currencies was limited (p. 2), primarily due to the difficulty of converting them back to currencies that can be used in the real world."
+    },
+    {
+      "id": "1.3.5.3.1.6.5.3.",
+      "text": "According to the Indonesian government, terrorists in the Middle East used bitcoin and other cryptocurrencies to fund militants in Indonesia. These transactions are harder to track for the Indonesian police than regular ones."
+    },
+    {
+      "id": "1.3.5.3.1.6.6.",
+      "text": "If you buy illegal items using cryptocurrencies and the police catches you, they can only prove that you had them delivered, but not that you bought them, as the money trail cannot be traced."
+    },
+    {
+      "id": "1.3.5.3.1.6.6.2.",
+      "text": "Under US law, receiving illegal drugs through the mail is only illegal when the recipient knew about it - something that is much more difficult to prove if they paid for them using cryptocurrencies."
+    },
+    {
+      "id": "1.3.5.3.1.7.",
+      "text": "Cryptocurrencies make it easier for criminals to operate and be paid."
+    },
+    {
+      "id": "1.3.5.3.1.7.2.",
+      "text": "Today illegal activities are mostly paid for using cash or anonymous bank accounts in shady places, which is costly and complicated - cryptocurrencies make this much simpler."
+    },
+    {
+      "id": "1.3.5.3.1.7.3.",
+      "text": "Banks have to report suspicious activities, including large wire transfers. Cryptocurrency transfers, on the other hand, are not reported to anyone, which makes them very useful for criminals."
+    },
+    {
+      "id": "1.3.5.3.1.7.3.1.",
+      "text": "In the US, banks have to report transactions involving more than $10,000, including international transfers."
+    },
+    {
+      "id": "1.3.5.3.1.7.4.",
+      "text": "Bitcoin can or could be used to pay for hitmen."
+    },
+    {
+      "id": "1.3.5.3.1.7.5.",
+      "text": "Every way to transfer money has probably been used by criminals."
+    },
+    {
+      "id": "1.3.5.3.1.7.5.1.",
+      "text": "Yes, but some make it easy and others make it difficult to be used by criminals - and cryptocurrencies make it significantly easier."
+    },
+    {
+      "id": "1.3.5.3.1.7.7.",
+      "text": "Cryptocurrencies make black market labor much easier."
+    },
+    {
+      "id": "1.3.5.3.1.7.7.1.",
+      "text": "If the black market labor is not just for babysitting but for some significant project, then paying big amounts of money in cash is quite a problem today."
+    },
+    {
+      "id": "1.3.5.3.1.7.7.1.1.",
+      "text": "Alone the going to a bank and withdrawing thousands of Euros in cash, is uncommon today."
+    },
+    {
+      "id": "1.3.5.3.1.7.7.2.",
+      "text": "This also has the upside of greasing the economy in jurisdictions where clean employment registration is subject to too heavy taxation."
+    },
+    {
+      "id": "1.3.5.3.1.8.",
+      "text": "Cryptocurrencies make new kinds of crime possible."
+    },
+    {
+      "id": "1.3.5.3.1.8.1.",
+      "text": "Fake ICO's can scam people out of money."
+    },
+    {
+      "id": "1.3.5.3.1.8.2.",
+      "text": "Scams playing on people's gullible nature fuelled by the hype around cryptocurrencies proliferate on social media."
+    },
+    {
+      "id": "1.3.5.3.1.8.3.",
+      "text": "Cryptocurrencies have led to the proliferation of \"pump and dump\" schemes."
+    },
+    {
+      "id": "1.3.5.3.1.9.",
+      "text": "Extortion attacks are much more likely if you have a very hard to trace option of payment."
+    },
+    {
+      "id": "1.3.5.3.1.9.1.",
+      "text": "Cryptocurrencies have made an escalation of ransomware attacks in recent years possible by providing a method of payment that is more difficult to trace than the alternatives."
+    },
+    {
+      "id": "1.3.5.3.1.9.2.",
+      "text": "CryptoLocker is a trojan that encrypts your data and only decrypts it after you paid a ransom using Bitcoin."
+    },
+    {
+      "id": "1.3.6.",
+      "text": "If people really wanted anonymity, they would use more cash and make less use of credit and debit cards."
+    },
+    {
+      "id": "1.3.6.1.",
+      "text": "Credit and debit cards provide benefits that offset the risk of being tracked and often make using them worthwhile for people."
+    },
+    {
+      "id": "1.3.6.1.1.",
+      "text": "When travelling, you do not need to have to exchange money to another currency and when leaving the country exchange it back again."
+    },
+    {
+      "id": "1.3.6.1.2.",
+      "text": "You do not need to have to go through the extra effort of having to go to a bank and withdraw money every so often."
+    },
+    {
+      "id": "1.3.6.1.3.",
+      "text": "You do not need to carry coins around, which are heavy and cumbersome and require a purse."
+    },
+    {
+      "id": "1.3.6.1.4.",
+      "text": "Credit cards provide you with a nice summary bill that explains what you spent your money on this month."
+    },
+    {
+      "id": "1.3.6.1.5.",
+      "text": "People do not want to carry cash around."
+    },
+    {
+      "id": "1.3.6.1.6.",
+      "text": "A credit card gives you the luxury to buy stuff in advance with the salary you will get at the end of the month. If you use cash you can only access the actual amount on your bank account."
+    },
+    {
+      "id": "1.3.6.2.",
+      "text": "Citizens know they can be tracked by using digital money."
+    },
+    {
+      "id": "1.3.7.",
+      "text": "Cryptocurrencies only need to have utility for niche groups of people in order to be worth having."
+    },
+    {
+      "id": "1.3.7.1.",
+      "text": "This is not true if the harms accumulated by cryptocurrencies to the rest of society outweigh the benefits to the niche group."
+    },
+    {
+      "id": "1.5.",
+      "text": "Handling and storing cryptocurrencies is less safe for ordinary consumers than traditional forms of electronic payment."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "Online banking from a compromised system, such as a PC or a phone that has been hacked, is insecure as well."
+    },
+    {
+      "id": "1.5.3.",
+      "text": "Some cryptocurrencies, unlike other forms of payment, are anonymous and untraceable."
+    },
+    {
+      "id": "1.5.3.1.",
+      "text": "Untraceability can even be bad for security."
+    },
+    {
+      "id": "1.5.3.1.1.",
+      "text": "When cryptocurrencies are stolen, there is no hope of recovering them because the transactions are irreversible once confirmed by the network and added to the blockchain."
+    },
+    {
+      "id": "1.5.3.2.",
+      "text": "Security does not require anonymity or untraceability."
+    },
+    {
+      "id": "1.5.3.2.1.",
+      "text": "Security means that nobody unauthorized can manipulate, authorize or see your transactions."
+    },
+    {
+      "id": "1.5.3.2.2.",
+      "text": "Security, when talking about money transactions, does not mean that nobody can tell that you are paying someone, nor whom you are paying."
+    },
+    {
+      "id": "1.5.3.3.",
+      "text": "Monero is a fully fungible, anonymous and untraceable cryptocurrency implementation."
+    },
+    {
+      "id": "1.5.3.4.",
+      "text": "Zcash is a cryptocurrency with a fully private transfer option."
+    },
+    {
+      "id": "1.5.3.5.",
+      "text": "Most cryptocurrencies are traceable by design, and not fully anonymous due to traceability."
+    },
+    {
+      "id": "1.5.6.",
+      "text": "Cryptocurrencies are much more desirable to steal than credit cards."
+    },
+    {
+      "id": "1.5.6.1.",
+      "text": "It is very simple to transfer large amounts of cryptocurrency over large distances, which is very hard with cash."
+    },
+    {
+      "id": "1.5.6.1.3.",
+      "text": "Transferring cryptocurrencies takes time and the associated fees can be quite high."
+    },
+    {
+      "id": "1.5.7.",
+      "text": "Cryptocurrencies lack the standard consumer protections provided by banks."
+    },
+    {
+      "id": "1.5.7.1.",
+      "text": "When somebody steals your credit card data and uses it for himself, you as the credit card owner will, in most cases, not be liable for the damage and will get your money back."
+    },
+    {
+      "id": "1.5.7.1.1.",
+      "text": "Due to Bitcoins operating without third party there is also nobody who would pay you back in the case of abuse/theft."
+    },
+    {
+      "id": "1.5.7.2.",
+      "text": "For cryptocurrencies, there is no central institutional authority akin to a central bank that would provide deposit insurance, as is the case for ordinary banks. Thus if a cryptocurrency exchange or wallet app shuts down, all your assets will be lost."
+    },
+    {
+      "id": "1.5.7.2.1.",
+      "text": "Most people only use cryptocurrency exchanges to convert between currencies, which exposes their assets to those risks only for a short period of time."
+    },
+    {
+      "id": "1.5.7.2.1.1.",
+      "text": "Even though they are called exchanges, people store significant amounts of cryptocurrencies on them."
+    },
+    {
+      "id": "1.5.7.2.1.1.1.",
+      "text": "Mt. Gox lost 850.000 Bitcoins, when the total amount of Bitcoins was just 11 million. It's unlikely that 10% of all Bitcoins were exchanged every day."
+    },
+    {
+      "id": "1.5.7.2.2.",
+      "text": "Even if these services necessary for using cryptocurrencies are less secure, this downgrade is voluntary."
+    },
+    {
+      "id": "1.5.7.2.2.2.",
+      "text": "Most people are not capable of storing anything of value securely on their computing devices."
+    },
+    {
+      "id": "1.5.7.2.2.2.1.",
+      "text": "Most people do not understand security mechanisms."
+    },
+    {
+      "id": "1.5.7.2.2.2.2.",
+      "text": "Most people use very unsecure software."
+    },
+    {
+      "id": "1.5.7.2.2.2.3.",
+      "text": "Most people do not patch their software as often as required."
+    },
+    {
+      "id": "1.5.7.2.2.2.4.",
+      "text": "Many people can be tricked into installing trojans, which can then be used to steal the wallets stored on their computer."
+    },
+    {
+      "id": "1.5.7.2.2.3.",
+      "text": "It is less risky to use insecure devices for transactions with daily transaction limits, than being your own \"bank\", where in 1 second and without transaction limits, all your assets could be irrecoverably gone."
+    },
+    {
+      "id": "1.5.7.2.2.3.1.",
+      "text": "Banks will stop fishy transactions or confirm with the account holder."
+    },
+    {
+      "id": "1.5.7.2.2.3.2.",
+      "text": "When transferred via the banking system, money has to be sent to the account of a known entity. At least in the case of major criminal activities, governments will cooperate across borders on identifying senders and recipients."
+    },
+    {
+      "id": "1.5.7.2.2.3.3.",
+      "text": "Money can be traced through the banking system and often recovered."
+    },
+    {
+      "id": "1.5.7.2.3.",
+      "text": "Mt Gox shut down and all their account holders lost their bitcoin holdings."
+    },
+    {
+      "id": "1.5.7.2.4.",
+      "text": "Flexcoin shut down and all their account holder lost their bitcoin holdings."
+    },
+    {
+      "id": "1.5.8.",
+      "text": "Even though we know to which bitcoin addresses large amounts of stolen bitcoins went, we cannot retrieve them."
+    },
+    {
+      "id": "1.5.9.",
+      "text": "The bitcoin security system is based on an asymmetrical encryption: the ownership of bitcoins is protected through two keys. Through the private key every payer has to digitally sign every transaction. Then the user can spend digital money which is directly linked to a specific address. On top of that, the bitcoin network verifies the signature with their public key. In case of loss of the private key, no other evidence of ownership is possible."
+    },
+    {
+      "id": "1.6.",
+      "text": "Cryptocurrency mining is a waste of resources."
+    },
+    {
+      "id": "1.6.1.",
+      "text": "Cryptocurrency mining consumes a lot of energy."
+    },
+    {
+      "id": "1.6.2.",
+      "text": "Mining minerals for normal currency consumes a lot of resources too."
+    },
+    {
+      "id": "1.6.2.1.",
+      "text": "American currency has not been linked to resources such as gold for a long time."
+    },
+    {
+      "id": "1.6.2.2.",
+      "text": "Less than 10% of the world's currency exists in coins and paper money - most of it is purely virtual."
+    },
+    {
+      "id": "1.6.3.",
+      "text": "Cryptocurrency mining requires a lot of hardware."
+    },
+    {
+      "id": "1.6.3.1.",
+      "text": "Purpose-built devices such as application-specific integrated circuits (ASICs) have been developed for mining cryptocurrencies. Resources and production costs are spent on these devices that are only useful for mining cryptocurrencies."
+    },
+    {
+      "id": "1.6.3.2.",
+      "text": "There is a shortage of graphics cards around the world as more and more people venture into cryptocurrency mining. People who would like to use GPUs for gaming or machine learning are faced with much higher prices or empty shelves."
+    },
+    {
+      "id": "1.6.3.3.",
+      "text": "Most cryptocurrencies - some more efficiently than others - can be mined on normal consumer computers as well. How one uses their computer is a personal choice."
+    },
+    {
+      "id": "1.6.3.3.1.",
+      "text": "Some people mine cryptocurrencies on their computer in the downtime - when they are not using it for anything else."
+    },
+    {
+      "id": "1.6.3.3.2.",
+      "text": "As consumer computers are not very efficient at mining cryptocurrencies, squeezing out every bit of efficiency, if done incorrectly, often leads to overheating the hardware, reducing its lifetime."
+    },
+    {
+      "id": "1.6.4.",
+      "text": "If the energy comes from renewable energy sources it is not that bad."
+    },
+    {
+      "id": "1.6.4.1.",
+      "text": "That is probably not the case for most cryptocurrencies right now."
+    },
+    {
+      "id": "1.6.4.2.",
+      "text": "The renewable energy could have been used to replace non-renewable energy, instead of having been used for cryptocurrency generation. This of course only applies if you are able to redirect it to other industries."
+    },
+    {
+      "id": "1.6.5.",
+      "text": "Cryptocurrencies are no different from any other production in this regard. As long as the cryptocurrency holds value (relative to a purchaser), the resource cost is just that: cost. Cost only becomes waste once the production loses its value. The concept \"waste\" assumes that the production process is in vain."
+    },
+    {
+      "id": "1.7.",
+      "text": "Cryptocurrencies and the technologies built on top of them open doors for technological innovation."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "Technologies like IOTA herald the emergence of \"Machine Economy\" - machines capable of earning and spending money on their own by trading resources such as data, computing power, storage or physical services to other machines in exchange for assembly, maintenance, energy and liability insurance."
+    },
+    {
+      "id": "1.7.2.",
+      "text": "Smart contracts, such as those built on the Ethereum network, are a fundamental innovation with a huge impact potential in sectors such as finance, insurance, gambling and others."
+    },
+    {
+      "id": "1.8.",
+      "text": "A cryptocurrency is harder to counterfeit than cash."
+    },
+    {
+      "id": "1.8.1.",
+      "text": "The same applies to debit and credit cards."
+    },
+    {
+      "id": "1.8.1.1.",
+      "text": "It is easier to steal a credit/debit card than cryptocurrency."
+    },
+    {
+      "id": "1.8.1.1.2.",
+      "text": "To steal a credit or debit card, one only needs to physically steal the card. To steal bitcoin, one needs to get access to a user's private password."
+    },
+    {
+      "id": "1.8.2.",
+      "text": "There is no such thing as a bitcoin that could be faked. Instead, there is only a public, decentralised record of who owns how many bitcoin, the blockchain - hackers would have to alter this record to fake bitcoins, which is only possible if hackers control more than 50% of the decentralised network."
+    },
+    {
+      "id": "1.8.3.",
+      "text": "Despite government efforts to prevent the creation and circulation of counterfeit money, it is remarkably common."
+    },
+    {
+      "id": "1.8.3.1.",
+      "text": "It is relatively easy to make counterfeit cash - the Secret Service seized more than 81 million dollars of fake money in 2012, for example."
+    },
+    {
+      "id": "1.8.3.2.",
+      "text": "Superior counterfeits require an intaglio press, the most advanced form of currency-printing technology available. These presses are far more expensive than ordinary offset, typographic or lithographic presses, which yield inferior counterfeits."
+    },
+    {
+      "id": "1.8.3.3.",
+      "text": "American cash has a special mixture of cotton and linen which is extremely difficult to accurately reproduce."
+    },
+    {
+      "id": "1.8.3.4.",
+      "text": "Before the introduction of a new design in 2017, more than 3% of all \u00a31 coins in circulation in the UK were fake."
+    },
+    {
+      "id": "1.9.",
+      "text": "The strength in digital currency lies in its universal character. Every person can use it in every country. It unites the world economically."
+    },
+    {
+      "id": "1.9.1.",
+      "text": "The US dollar is used the same way in many countries, because it is stable, compared to the local currencies."
+    },
+    {
+      "id": "1.9.1.1.",
+      "text": "Since Nixon, the US dollar has not been linked to gold anymore. Some economists say this could destabilise the dollar."
+    },
+    {
+      "id": "1.9.1.1.1.",
+      "text": "The financial system is based on trust. As long as people believe that the dollar has its legitimate value, it does not matter if its worth is based in gold or not."
+    },
+    {
+      "id": "1.9.2.",
+      "text": "The Euro did not really do a very good job at uniting Europe."
+    },
+    {
+      "id": "1.9.3.",
+      "text": "Cryptocurrencies are not constrained by country borders as the underlying technology is globally distributed."
+    },
+    {
+      "id": "1.9.4.",
+      "text": "Traditional fiat currencies require physical distribution of cash throughout a geographic area for their adoption locally. In contrast, cryptocurrencies are not territorially constrained because they do not have a physical version."
+    },
+    {
+      "id": "1.9.5.",
+      "text": "Cryptocurrencies are not tied to any political unit, making them essentially equal and the same for a citizen of any country to use."
+    },
+    {
+      "id": "1.10.",
+      "text": "Cryptocurrencies would make banking more accessible."
+    },
+    {
+      "id": "1.10.1.",
+      "text": "It would allow everyone to hold digital money without being required to hold an account with a bank."
+    },
+    {
+      "id": "1.10.1.1.",
+      "text": "Most users would have to hold accounts with middleman/third party services such as Wallet hosting/Exchanges, in order to use cryptocurrencies."
+    },
+    {
+      "id": "1.10.1.1.1.",
+      "text": "In order to use Cryptocurrencies without trusting a middleman for your wallet, you have to be very technically savvy."
+    },
+    {
+      "id": "1.10.1.1.1.1.",
+      "text": "Very few users have the technical ability to host and use their own blockchain wallet, or the time to maintain security updates."
+    },
+    {
+      "id": "1.10.1.1.1.2.",
+      "text": "Users can use a paper wallet to hold cryptocurrencies without needing to be technically savvy."
+    },
+    {
+      "id": "1.10.1.1.2.",
+      "text": "Crypto middlemen are less trustworthy than the established banking system."
+    },
+    {
+      "id": "1.10.1.2.",
+      "text": "This is an issue that can easily be solved through other forms of digital money, as has been done in China."
+    },
+    {
+      "id": "1.10.2.",
+      "text": "While most service sectors have moved into the internet, the banking industry is still a very centralized platform based industry."
+    },
+    {
+      "id": "1.10.2.1.",
+      "text": "This would facilitate innovation in the financial industry and thus create more jobs."
+    },
+    {
+      "id": "1.10.3.",
+      "text": "The cost of achieving financial inclusion would be vastly reduced, as people could gain financial access simply by downloading a secure application on their smartphone."
+    },
+    {
+      "id": "1.10.3.1.",
+      "text": "This already exists without the use of cryptocurrencies, e.g. M-Pesa in East Africa."
+    },
+    {
+      "id": "1.10.4.",
+      "text": "This could be achieved to the same degree through other forms of digital money."
+    },
+    {
+      "id": "1.11.",
+      "text": "Currencies not backed by governments are harmful."
+    },
+    {
+      "id": "1.11.1.",
+      "text": "If the cryptocurrency is too widely adopted in a nation, then the government won't get enough in taxes to maintain society's infrastructure."
+    },
+    {
+      "id": "1.11.1.1.",
+      "text": "Cryptocurrency transactions could be taxed by design, if the protocol implements a transaction fee on some transactions with that fee going directly to the government."
+    },
+    {
+      "id": "1.11.1.1.1.",
+      "text": "People would be incentivised to use cryptocurrencies that do not have this feature to avoid paying extra fees."
+    },
+    {
+      "id": "1.11.2.",
+      "text": "Cryptocurrencies make it harder for states to implement capital controls, which makes regulating the economy more difficult."
+    },
+    {
+      "id": "1.11.2.1.",
+      "text": "It makes it much easier to circumvent capital controls, like in China."
+    },
+    {
+      "id": "1.11.2.2.",
+      "text": "Most people pay taxes and banks report all their in/outflows above certain limits."
+    },
+    {
+      "id": "1.11.2.2.2.",
+      "text": "The banks have to internally keep an eye, they are not reporting to anybody and thereby breaching privacy."
+    },
+    {
+      "id": "1.11.3.",
+      "text": "For a currency to have a reliable value, it either has to be backed by a government fiat or have a consistent and reliable use as a commodity (such as being the value used within a legal system to allocate damages)."
+    },
+    {
+      "id": "1.11.3.1.",
+      "text": "Being supported by government fiat means that there is an (ostensibly) neutral party with a long term interest in the stability of the currency and with the financial tools (setting interest rates, taxes, etc) to strongly influence its value."
+    },
+    {
+      "id": "1.11.3.2.",
+      "text": "Without a consistent and widespread use as a commodity a currency is more prone to speculation \u2014 they need a stable source of value and so people have incentives to invest or short against value fluctuations."
+    },
+    {
+      "id": "1.11.4.",
+      "text": "In case of a catastrophic collapse of the financial system cryptocurrencies are still able to retain some of their value, while major currencies like USD, EUR and CHF will not."
+    },
+    {
+      "id": "1.11.4.1.",
+      "text": "This is pure speculation - cryptocurrency exchange rates fluctuate so wildly, even without financial system collapses, that considering them as retainers of any sort of value would be highly risky."
+    },
+    {
+      "id": "1.11.4.1.1.",
+      "text": "If a cryptocurrency was in wider use, then its value would be more stable."
+    },
+    {
+      "id": "1.11.4.2.",
+      "text": "During the last major financial crisis, the US dollar never really depreciated against other currencies."
+    },
+    {
+      "id": "1.11.4.2.1.",
+      "text": "Whenever there is a major crisis, there is a flight to quality, which means USD treasury bonds are being bought by investors around the world, thus increasing the demand for USD."
+    },
+    {
+      "id": "1.11.4.3.",
+      "text": "Precious metals such as gold, silver and platinum already serve this purpose without the phenomenal fluctuations typical in the prices of cryptocurrencies."
+    },
+    {
+      "id": "1.11.4.3.1.",
+      "text": "Precious metals retain value precisely because they remain in high demand regardless of infrastructure or economic model. Cryptocurrencies assume an advanced, underlying technological infrastructure to serve their function, and therefore carry long-term risk which precious metals don't."
+    },
+    {
+      "id": "1.11.4.3.1.1.",
+      "text": "Cryptocurrencies will require some authoritative blockchain mechanism that can be reached from around the world."
+    },
+    {
+      "id": "1.11.5.",
+      "text": "There can be no monetary policy for decentralised digital currencies."
+    },
+    {
+      "id": "1.11.6.",
+      "text": "Cryptocurrencies could be banned by governments - this would make the exchange back to non-virtual currencies very complicated."
+    },
+    {
+      "id": "1.11.6.1.",
+      "text": "China has already implemented multiple crackdowns on cryptocurrencies."
+    },
+    {
+      "id": "1.12.",
+      "text": "Cryptocurrencies enhance privacy for market transactions."
+    },
+    {
+      "id": "1.12.1.",
+      "text": "Anonymity allows individuals to act in the market without the fear of government persecution."
+    },
+    {
+      "id": "1.12.1.1.",
+      "text": "Anything that is beneficial to the world, could be funded without cryptocurrencies as easily, whether by cash or by traditional wire transfers."
+    },
+    {
+      "id": "1.12.1.2.",
+      "text": "Being able to transfer funds anonymously is important for people like investigative journalists, whose work benefits society."
+    },
+    {
+      "id": "1.12.1.2.1.",
+      "text": "For instance to reimburse sources for travel costs or payment for whistle-blowers."
+    },
+    {
+      "id": "1.12.1.2.1.1.",
+      "text": "If they travel, you meet them in person, thus you can use cash for this."
+    },
+    {
+      "id": "1.12.1.2.2.",
+      "text": "There is already a well established system of escrow accounts and lawyers. For smaller amounts, cash would do just fine. Anything beyond that would probably be illegal."
+    },
+    {
+      "id": "1.12.1.2.3.",
+      "text": "This is tax evasion and thus illegal, given that this payment will not be reported to the tax authorities."
+    },
+    {
+      "id": "1.12.1.2.4.",
+      "text": "Most important whistle-blowers did what they did for idealistic, not for monetary reasons and did not receive any form of compensation."
+    },
+    {
+      "id": "1.12.1.2.5.",
+      "text": "Investigative journalism has been around for decades, cryptocurrencies are not a prerequisite for it to emerge."
+    },
+    {
+      "id": "1.12.1.2.5.1.",
+      "text": "With the fear of terrorism and the greater surveillance possibilities, investigative journalism and whistle-blowing are more important than ever. Therefore new ways of funding these activities are beneficial for the world."
+    },
+    {
+      "id": "1.12.1.2.6.",
+      "text": "Receiving payment for whistle-blowing is riskier for the informant, than if he did it without compensation."
+    },
+    {
+      "id": "1.12.1.2.6.1.",
+      "text": "If put in front of a court his motives will be challenged. He did not do it for the public good, but for the money."
+    },
+    {
+      "id": "1.12.1.2.6.2.",
+      "text": "If he receives a payment, the crime of divulging secrets is more likely to be prosecuted as an act of spying."
+    },
+    {
+      "id": "1.12.1.2.6.2.1.",
+      "text": "Normally spying includes some form of compensation."
+    },
+    {
+      "id": "1.12.1.2.7.",
+      "text": "Even in \"civilized\" countries like Germany such journalists are threatened by government authorities that have something to hide."
+    },
+    {
+      "id": "1.12.1.2.8.",
+      "text": "Anonymous communication may be important for investigative journalists, but not anonymous cash."
+    },
+    {
+      "id": "1.12.1.2.8.1.",
+      "text": "They may need to pay sources."
+    },
+    {
+      "id": "1.12.1.2.8.1.1.",
+      "text": "The high times of investigative journalism were in the past and in that time there was no problem getting information from sources by paying cash."
+    },
+    {
+      "id": "1.12.1.2.8.1.2.",
+      "text": "Most important sources, and especially whistleblowers, are not revealing information for monetary incentives."
+    },
+    {
+      "id": "1.12.1.3.",
+      "text": "Commercial payment services like credit cards and PayPal are under the control of governments and political pressure. This is dangerous for a free democratic society, and this is where cryptocurrencies can help."
+    },
+    {
+      "id": "1.12.1.3.1.",
+      "text": "Just because a certain group exists in a free democratic society does not mean that it automatically has the right to be funded."
+    },
+    {
+      "id": "1.12.1.3.1.1.",
+      "text": "If an organisation is allowed/legal, it is allowed to fund it or donate to it."
+    },
+    {
+      "id": "1.12.1.3.2.",
+      "text": "It would be possible to apply the same to cryptocurrencies, by a simple law that bans anonymous payments."
+    },
+    {
+      "id": "1.12.1.3.3.",
+      "text": "Since there is no commonly agreed upon definition of illicit payments, governments can control who can receive money in these payment systems by arbitrarily designating organizations as terrorist."
+    },
+    {
+      "id": "1.12.1.3.4.",
+      "text": "The PayPal account of Wikileaks was frozen, even though the legality of that was questionable."
+    },
+    {
+      "id": "1.12.1.4.",
+      "text": "People should be able to shop online without fear of setting off a terrorism alert at an intelligence service because they bought the wrong combination of goods."
+    },
+    {
+      "id": "1.12.1.4.1.",
+      "text": "There are other ways for getting rid of fungus."
+    },
+    {
+      "id": "1.12.1.4.1.1.",
+      "text": "Use a professional, that has all the proper equipment and knows how to deal with these dangerous substances."
+    },
+    {
+      "id": "1.12.1.4.2.",
+      "text": "You can also not buy proper poison to kill rodents, as owning and handling that poison is not allowed."
+    },
+    {
+      "id": "1.12.1.4.3.",
+      "text": "You still can be traced by the delivery of the physical goods."
+    },
+    {
+      "id": "1.12.1.4.3.1.",
+      "text": "This is what happened to many of the Silk Road users, who purchased drugs. After Silk Road got busted, they somehow traced some of the dealers and these had addresses to which they had shipped stuff. Alas they came and knocked on the doors of the customers. 1"
+    },
+    {
+      "id": "1.12.1.4.4.",
+      "text": "There are good reasons why certain sales of chemicals are being watched. The government is not doing this for harassment reasons."
+    },
+    {
+      "id": "1.12.1.4.4.1.",
+      "text": "Just because you want to have a small nuclear reactor, does not mean that you have a right to build one. Certain stuff is simply too dangerous."
+    },
+    {
+      "id": "1.12.1.4.5.",
+      "text": "Googling both pressure cookers and backpacks from the same Internet connection has previously led to people's homes being raided by the police."
+    },
+    {
+      "id": "1.12.1.5.",
+      "text": "Cryptocurrencies can be used to subvert authoritarian regimes e.g. through funding opposition and rebel groups."
+    },
+    {
+      "id": "1.12.1.5.1.",
+      "text": "Traceable money increases the risk of activists getting caught."
+    },
+    {
+      "id": "1.12.1.5.1.1.",
+      "text": "Activists would be required to exchange the money for local currency, to use it. These exchange agents would surely be targeted by the government and would thus collaborate with it."
+    },
+    {
+      "id": "1.12.1.5.1.2.",
+      "text": "Activists in such countries are known anyway and would not be put under additional scrutiny when receiving money from overseas."
+    },
+    {
+      "id": "1.12.1.5.2.",
+      "text": "Cryptocurrencies, as we have seen in Belarus and North Korea, are useful tools for authoritarian regimes to get around economic sanctions."
+    },
+    {
+      "id": "1.12.1.5.3.",
+      "text": "This is neither a benefit for nor an obligation of societies who use cryptocurrencies."
+    },
+    {
+      "id": "1.12.1.5.4.",
+      "text": "Funding a non-terrorist organisation that fights for freedom under an authoritarian regime does not require untraceability."
+    },
+    {
+      "id": "1.12.1.5.5.",
+      "text": "It is not clear whether the rebels are even better than the regime."
+    },
+    {
+      "id": "1.12.1.5.5.1.",
+      "text": "Taliban funded by the US, against the Russians."
+    },
+    {
+      "id": "1.12.1.5.5.2.",
+      "text": "The Al Qaeda-close rebels in Syria that want to establish a caliphate."
+    },
+    {
+      "id": "1.12.1.5.5.3.",
+      "text": "Lybia which after ousting Gaddafi slowly gave up on women's rights."
+    },
+    {
+      "id": "1.12.1.5.6.",
+      "text": "No normal private person does that."
+    },
+    {
+      "id": "1.12.1.5.6.1.",
+      "text": "Private individuals do fund rebels and terrorists."
+    },
+    {
+      "id": "1.12.1.5.6.1.1.",
+      "text": "In mosques in Britain money is collected for causes."
+    },
+    {
+      "id": "1.12.1.5.6.1.2.",
+      "text": "Wahabis(Saudis), that give money to the rebels in Syria."
+    },
+    {
+      "id": "1.12.1.5.6.1.3.",
+      "text": "Bin Ladin was a private wealthy man, he gave to himself."
+    },
+    {
+      "id": "1.12.1.5.7.",
+      "text": "They can simply use bank accounts in another country."
+    },
+    {
+      "id": "1.12.1.5.8.",
+      "text": "In these regimes the Internet is completely controlled and cryptocurrency websites can just be disabled by government."
+    },
+    {
+      "id": "1.12.1.5.8.1.",
+      "text": "Only China and North Korea have anything that could be considered complete control of Internet usage within their borders."
+    },
+    {
+      "id": "1.12.1.5.8.2.",
+      "text": "Controlling the Internet proved to be quite difficult, even China is struggling to do so."
+    },
+    {
+      "id": "1.12.1.5.8.2.1.",
+      "text": "China is still controlling major parts of the Internet, where it both censors and surveils its citizens and other people within its borders."
+    },
+    {
+      "id": "1.12.1.5.9.",
+      "text": "It also helps political activists who fight for a good cause  to cover their activities."
+    },
+    {
+      "id": "1.12.2.",
+      "text": "Anonymous money transfers are a basic right of the citizens of civilized societies."
+    },
+    {
+      "id": "1.12.2.1.",
+      "text": "All citizens have a right to privacy. This right applies to money transactions, as it does to every facet of everyday life."
+    },
+    {
+      "id": "1.12.2.1.1.",
+      "text": "Criminal activity warrants a violation of a criminal's privacy."
+    },
+    {
+      "id": "1.12.2.1.1.1.",
+      "text": "This is how it is handled in all Western countries, using court-ordered surveillance orders to investigate criminals."
+    },
+    {
+      "id": "1.12.2.1.2.",
+      "text": "According to the Universal Declaration of Human Rights, Article 12: \"No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence\"."
+    },
+    {
+      "id": "1.12.2.2.",
+      "text": "Most of the business interactions people have are never fully private. When you buy stuff, you are always interacting with others."
+    },
+    {
+      "id": "1.12.2.3.",
+      "text": "Individuals already can send cash via post, bank transfer, or PayPal anonymously. Cryptocurrencies allow for this without a centralized system."
+    },
+    {
+      "id": "1.12.2.3.1.",
+      "text": "The terms and services of the German postal service don't allow customers to send cash."
+    },
+    {
+      "id": "1.12.2.3.2.",
+      "text": "German banks are legally obliged to disclose the name of the remitter."
+    },
+    {
+      "id": "1.12.2.3.3.",
+      "text": "Although this involves breaking terms and conditions, a fake PayPal account can be used to obscure one's identity when transacting online."
+    },
+    {
+      "id": "1.12.2.3.3.1.",
+      "text": "One still has to send money to a verified PayPal account to withdraw it. In such cases, PayPal links the two accounts' identity internally. Hence, this method is not fully anonymous."
+    },
+    {
+      "id": "1.12.2.3.3.1.1.",
+      "text": "PayPal knows your identity."
+    },
+    {
+      "id": "1.12.2.4.",
+      "text": "If cash transactions are above a certain limit, the business or financial institute has to record your identity."
+    },
+    {
+      "id": "1.12.2.4.1.",
+      "text": "The same restriction is likely to be imposed on cryptocurrencies by the tax authorities."
+    },
+    {
+      "id": "1.12.2.4.2.",
+      "text": "In Germany, this happens in accordance with the Money Laundering Act."
+    },
+    {
+      "id": "1.12.2.5.",
+      "text": "The important word here is \"anonymous\", there is no official human right that makes statements pertaining to an individual's right to anonymity."
+    },
+    {
+      "id": "1.12.3.",
+      "text": "Cryptocurrencies allow for the purchase of items or services that are not forbidden, but are perhaps embarrassing or confidential."
+    },
+    {
+      "id": "1.12.3.1.",
+      "text": "Given the social stigma attached to some mental health issues such as depression or bipolar disorder, people might prefer to buy relevant medication anonymously to avoid social repercussions."
+    },
+    {
+      "id": "1.12.3.1.1.",
+      "text": "This market exists, not because it is shameful to buy Prozac regularly, which you can, with a prescription, but because people who do not need it want to use Prozac."
+    },
+    {
+      "id": "1.12.3.1.2.",
+      "text": "Purchasing medication under the table is illegal and we as a society do not want illegal activities to take place. If we wanted these things to happen, we would legalize them."
+    },
+    {
+      "id": "1.12.3.2.",
+      "text": "Buying porn online is legal, yet many people might prefer there not being a record of it since it can be considered embarassing."
+    },
+    {
+      "id": "1.12.3.2.1.",
+      "text": "It is not necessary to pay money to watch porn online."
+    },
+    {
+      "id": "1.12.3.2.2.",
+      "text": "If people are so afraid of somebody noticing that they are watching porn, then the actual watching and storing of porn becomes the issue, not the buying."
+    },
+    {
+      "id": "1.12.3.2.3.",
+      "text": "Prepaid credit cards do not have account statements that might cause embarrassment at home."
+    },
+    {
+      "id": "1.12.3.2.4.",
+      "text": "Buying porn discretely has never been a problem, they offer a myriad different discrete methods."
+    },
+    {
+      "id": "1.12.3.2.4.1.",
+      "text": "It is possible to pay using gift vouchers from other non-porn services."
+    },
+    {
+      "id": "1.12.3.2.4.2.",
+      "text": "People can pay using their credit card and have an unsuspicious looking service appear on their bill."
+    },
+    {
+      "id": "1.12.3.2.4.2.1.",
+      "text": "Services selling porn do not charge customers with a bold \"PORN\" in capital letters on their credit card bill, but rather some innocuous looking billing service."
+    },
+    {
+      "id": "1.12.3.2.5.",
+      "text": "Someone's partner might find out while checking their credit card statement and it could become a big drama."
+    },
+    {
+      "id": "1.12.3.2.5.1.",
+      "text": "Your partner might find out by having a look at your computer."
+    },
+    {
+      "id": "1.12.3.2.5.3.",
+      "text": "It should really be possible in our day and age, to disclose that you like to watch porn."
+    },
+    {
+      "id": "1.12.3.2.5.4.",
+      "text": "Porn might be the smallest problem in your relationship, as if you cannot disclose this, you most probably cannot disclose your sexual wants and desires, which will lead to long-term problems."
+    },
+    {
+      "id": "1.12.3.3.",
+      "text": "In countries where sex work is legal, there might still be social stigma attached to it. Hence, both sex workers and their customers might prefer to not have their transactions tracked."
+    },
+    {
+      "id": "1.12.3.3.1.",
+      "text": "There is even a dedicated cryptocurrency for sex workers, which emphasises privacy and discretion."
+    },
+    {
+      "id": "1.12.3.3.2.",
+      "text": "These amounts are so small that they can really easily be dealt with using cash."
+    },
+    {
+      "id": "1.12.3.3.3.",
+      "text": "The sex industry seems to be doing just fine without cryptocurrencies."
+    },
+    {
+      "id": "1.12.3.3.4.",
+      "text": "Sex work may be legal but the actual sex workers themselves may have suffered from human trafficking, may be underage or connected to a criminal activity despite this."
+    },
+    {
+      "id": "1.12.3.3.5.",
+      "text": "Many sex workers do provide the option of paying by credit card or other forms of non-cash transaction."
+    },
+    {
+      "id": "1.12.3.3.5.1.",
+      "text": "These charges will appear on the credit card bill as unsuspicious charges for a bar or club."
+    },
+    {
+      "id": "1.12.3.5.",
+      "text": "Services that one would be ashamed of buying are often morally problematic, so society should not make it easier to buy them anonymously."
+    },
+    {
+      "id": "1.12.3.5.1.",
+      "text": "If society considers something morally problematic, it should be made illegal. It should not be dealt with by shaming those engaging in it."
+    },
+    {
+      "id": "1.12.3.5.2.",
+      "text": "Not everything considered shameful is amoral, hence there is value in providing a way of making related purchases in private."
+    },
+    {
+      "id": "1.12.3.5.2.1.",
+      "text": "There is a widespread taboo around talking about anything related to menstruation."
+    },
+    {
+      "id": "1.12.3.5.2.2.",
+      "text": "Mental health is stigmatised in many ways and variably considered shameful or threatening."
+    },
+    {
+      "id": "1.12.3.5.2.3.",
+      "text": "There is significant shame attached to all kinds of sexual activity - even mainstream ones that are not widely considered amoral."
+    },
+    {
+      "id": "1.12.3.6.",
+      "text": "It also allows for the purchase of illegal things that people are ashamed of."
+    },
+    {
+      "id": "1.12.3.7.",
+      "text": "The act of buying legal, but shameful, items/services is not the biggest risk of detection - the delivery or use is."
+    },
+    {
+      "id": "1.12.4.",
+      "text": "Anonymous cryptocurrencies can enable funding of totally legal NGOs or similar entities, where funders may not want to be traceable at all."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.5.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.1.1.",
+      "target": "1.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.1.2.",
+      "target": "1.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.1.2.",
+      "target": "1.5.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.2.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.",
+      "target": "1.5.7.2.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.1.",
+      "target": "1.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.1.1.",
+      "target": "1.1.2.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.1.2.",
+      "target": "1.1.2.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.1.3.",
+      "target": "1.1.2.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.2.",
+      "target": "1.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.2.1.",
+      "target": "1.1.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.3.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.3.",
+      "target": "1.3.5.3.1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.4.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.4.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.4.1.",
+      "target": "1.1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.4.1.1.",
+      "target": "1.1.4.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.4.1.2.",
+      "target": "1.1.4.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.5.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.5.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.6.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.6.1.",
+      "target": "1.1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.2.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.3.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.3.1.",
+      "target": "1.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.",
+      "target": "1.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.1.",
+      "target": "1.2.3.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.1.1.",
+      "target": "1.2.3.2.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.2.",
+      "target": "1.2.3.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.2.1.",
+      "target": "1.2.3.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.2.2.",
+      "target": "1.2.3.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.2.2.",
+      "target": "1.5.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.2.3.",
+      "target": "1.2.3.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.2.2.3.",
+      "target": "1.5.7.2.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.4.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.4.",
+      "target": "1.11.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.5.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.2.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.3.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.3.1.",
+      "target": "1.3.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.3.2.",
+      "target": "1.3.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.3.3.",
+      "target": "1.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.3.4.",
+      "target": "1.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.3.4.1.",
+      "target": "1.3.3.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.3.4.2.",
+      "target": "1.3.3.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.3.5.",
+      "target": "1.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.3.6.",
+      "target": "1.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.3.7.",
+      "target": "1.3.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.3.7.1.",
+      "target": "1.3.3.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.4.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.4.1.",
+      "target": "1.3.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.4.2.",
+      "target": "1.3.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.1.",
+      "target": "1.3.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.2.",
+      "target": "1.3.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.",
+      "target": "1.3.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.",
+      "target": "1.3.5.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.1.",
+      "target": "1.3.5.3.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.1.",
+      "target": "1.3.5.3.1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.1.",
+      "target": "1.3.5.3.1.6.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.2.",
+      "target": "1.3.5.3.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.3.",
+      "target": "1.3.5.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.3.",
+      "target": "1.3.5.3.1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.3.1.",
+      "target": "1.3.5.3.1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.3.1.",
+      "target": "1.3.5.3.1.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.3.2.",
+      "target": "1.3.5.3.1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.3.3.",
+      "target": "1.3.5.3.1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.3.3.2.",
+      "target": "1.3.5.3.1.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.3.4.",
+      "target": "1.3.5.3.1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.4.",
+      "target": "1.3.5.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.4.1.",
+      "target": "1.3.5.3.1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.4.2.",
+      "target": "1.3.5.3.1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.4.2.1.",
+      "target": "1.3.5.3.1.4.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.5.",
+      "target": "1.3.5.3.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.5.1.",
+      "target": "1.3.5.3.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.6.",
+      "target": "1.3.5.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.2.",
+      "target": "1.3.5.3.1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.3.",
+      "target": "1.3.5.3.1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.3.1.",
+      "target": "1.3.5.3.1.6.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.6.4.",
+      "target": "1.3.5.3.1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.4.1.",
+      "target": "1.3.5.3.1.6.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.5.",
+      "target": "1.3.5.3.1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.5.1.",
+      "target": "1.3.5.3.1.6.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.5.2.",
+      "target": "1.3.5.3.1.6.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.6.5.3.",
+      "target": "1.3.5.3.1.6.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.6.",
+      "target": "1.3.5.3.1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.6.6.2.",
+      "target": "1.3.5.3.1.6.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.",
+      "target": "1.3.5.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.2.",
+      "target": "1.3.5.3.1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.3.",
+      "target": "1.3.5.3.1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.3.",
+      "target": "1.11.2.2.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.7.3.1.",
+      "target": "1.3.5.3.1.7.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.3.1.",
+      "target": "1.11.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.4.",
+      "target": "1.3.5.3.1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.5.",
+      "target": "1.3.5.3.1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.7.5.1.",
+      "target": "1.3.5.3.1.7.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.7.7.",
+      "target": "1.3.5.3.1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.7.1.",
+      "target": "1.3.5.3.1.7.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.7.1.1.",
+      "target": "1.3.5.3.1.7.7.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.7.7.2.",
+      "target": "1.3.5.3.1.7.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.3.1.8.",
+      "target": "1.3.5.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.8.1.",
+      "target": "1.3.5.3.1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.8.2.",
+      "target": "1.3.5.3.1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.8.3.",
+      "target": "1.3.5.3.1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.9.",
+      "target": "1.3.5.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.9.1.",
+      "target": "1.3.5.3.1.9.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.5.3.1.9.2.",
+      "target": "1.3.5.3.1.9.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.1.",
+      "target": "1.3.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.6.1.1.",
+      "target": "1.3.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.1.2.",
+      "target": "1.3.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.1.3.",
+      "target": "1.3.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.1.4.",
+      "target": "1.3.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.1.5.",
+      "target": "1.3.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.1.6.",
+      "target": "1.3.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.2.",
+      "target": "1.3.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.7.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.7.1.",
+      "target": "1.3.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.8.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.3.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.3.1.",
+      "target": "1.5.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.3.1.1.",
+      "target": "1.5.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.1.1.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.1.1.",
+      "target": "1.5.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.2.",
+      "target": "1.5.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.3.2.1.",
+      "target": "1.5.3.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.2.2.",
+      "target": "1.5.3.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.3.",
+      "target": "1.5.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.4.",
+      "target": "1.5.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.5.",
+      "target": "1.5.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.6.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.6.1.",
+      "target": "1.5.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.6.1.3.",
+      "target": "1.5.6.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.7.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.1.",
+      "target": "1.5.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.1.1.",
+      "target": "1.5.7.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.",
+      "target": "1.5.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.1.",
+      "target": "1.5.7.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.7.2.1.1.",
+      "target": "1.5.7.2.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.7.2.1.1.1.",
+      "target": "1.5.7.2.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.2.",
+      "target": "1.5.7.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.7.2.2.2.",
+      "target": "1.5.7.2.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.7.2.2.2.1.",
+      "target": "1.5.7.2.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.2.2.2.",
+      "target": "1.5.7.2.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.2.2.3.",
+      "target": "1.5.7.2.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.2.2.4.",
+      "target": "1.5.7.2.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.2.3.",
+      "target": "1.5.7.2.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.7.2.2.3.1.",
+      "target": "1.5.7.2.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.2.3.2.",
+      "target": "1.5.7.2.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.2.3.3.",
+      "target": "1.5.7.2.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.3.",
+      "target": "1.5.7.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.4.",
+      "target": "1.5.7.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.7.2.4.",
+      "target": "1.5.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.8.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.9.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.1.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.2.1.",
+      "target": "1.6.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.2.2.",
+      "target": "1.6.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.3.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.3.1.",
+      "target": "1.6.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.3.2.",
+      "target": "1.6.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.3.3.",
+      "target": "1.6.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.3.3.1.",
+      "target": "1.6.3.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.3.3.2.",
+      "target": "1.6.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.4.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.4.1.",
+      "target": "1.6.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.4.2.",
+      "target": "1.6.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.5.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.2.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.1.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.1.1.",
+      "target": "1.8.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.1.1.2.",
+      "target": "1.8.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.2.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.3.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.3.1.",
+      "target": "1.8.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.3.2.",
+      "target": "1.8.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.3.3.",
+      "target": "1.8.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.3.4.",
+      "target": "1.8.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.1.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.1.",
+      "target": "1.9.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.1.1.",
+      "target": "1.9.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.2.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.3.",
+      "target": "1.9.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.4.",
+      "target": "1.9.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.5.",
+      "target": "1.9.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.1.",
+      "target": "1.10.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.1.1.",
+      "target": "1.10.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.10.1.1.1.",
+      "target": "1.10.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.1.1.1.1.",
+      "target": "1.10.1.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.1.1.1.2.",
+      "target": "1.10.1.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.10.1.1.2.",
+      "target": "1.10.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.1.2.",
+      "target": "1.10.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.10.2.",
+      "target": "1.10.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.2.1.",
+      "target": "1.10.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.3.",
+      "target": "1.10.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.3.1.",
+      "target": "1.10.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.10.4.",
+      "target": "1.10.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.1.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.1.1.",
+      "target": "1.11.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.1.1.1.",
+      "target": "1.11.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.2.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.2.1.",
+      "target": "1.11.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.2.2.",
+      "target": "1.11.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.2.2.2.",
+      "target": "1.11.2.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.3.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.3.1.",
+      "target": "1.11.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.3.2.",
+      "target": "1.11.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.4.",
+      "target": "1.11.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.4.1.",
+      "target": "1.11.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.4.1.1.",
+      "target": "1.11.4.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.4.2.",
+      "target": "1.11.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.4.2.1.",
+      "target": "1.11.4.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.4.3.",
+      "target": "1.11.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.4.3.1.",
+      "target": "1.11.4.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.4.3.1.1.",
+      "target": "1.11.4.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.5.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.6.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.6.1.",
+      "target": "1.11.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.",
+      "target": "1.12.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.1.",
+      "target": "1.12.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.",
+      "target": "1.12.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.2.1.",
+      "target": "1.12.1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.2.1.1.",
+      "target": "1.12.1.2.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.2.",
+      "target": "1.12.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.3.",
+      "target": "1.12.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.4.",
+      "target": "1.12.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.5.",
+      "target": "1.12.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.5.",
+      "target": "1.12.1.2.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.5.1.",
+      "target": "1.12.1.2.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.6.",
+      "target": "1.12.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.6.1.",
+      "target": "1.12.1.2.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.2.6.2.",
+      "target": "1.12.1.2.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.2.6.2.1.",
+      "target": "1.12.1.2.6.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.2.7.",
+      "target": "1.12.1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.2.8.",
+      "target": "1.12.1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.8.1.",
+      "target": "1.12.1.2.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.8.1.1.",
+      "target": "1.12.1.2.8.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.2.8.1.2.",
+      "target": "1.12.1.2.8.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.3.",
+      "target": "1.12.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.3.1.",
+      "target": "1.12.1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.3.1.1.",
+      "target": "1.12.1.3.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.3.2.",
+      "target": "1.12.1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.3.3.",
+      "target": "1.12.1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.3.4.",
+      "target": "1.12.1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.4.",
+      "target": "1.12.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.4.1.",
+      "target": "1.12.1.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.4.1.1.",
+      "target": "1.12.1.4.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.4.1.1.",
+      "target": "1.12.1.4.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.4.2.",
+      "target": "1.12.1.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.4.3.",
+      "target": "1.12.1.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.4.3.1.",
+      "target": "1.12.1.4.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.4.4.",
+      "target": "1.12.1.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.4.4.1.",
+      "target": "1.12.1.4.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.4.5.",
+      "target": "1.12.1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.",
+      "target": "1.12.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.1.",
+      "target": "1.12.1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.1.",
+      "target": "1.12.1.5.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.1.1.",
+      "target": "1.12.1.5.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.1.2.",
+      "target": "1.12.1.5.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.2.",
+      "target": "1.12.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.3.",
+      "target": "1.12.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.4.",
+      "target": "1.12.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.5.",
+      "target": "1.12.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.5.1.",
+      "target": "1.12.1.5.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.5.2.",
+      "target": "1.12.1.5.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.5.3.",
+      "target": "1.12.1.5.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.6.",
+      "target": "1.12.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.6.1.",
+      "target": "1.12.1.5.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.6.1.1.",
+      "target": "1.12.1.5.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.6.1.2.",
+      "target": "1.12.1.5.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.6.1.3.",
+      "target": "1.12.1.5.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.5.7.",
+      "target": "1.12.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.8.",
+      "target": "1.12.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.8.1.",
+      "target": "1.12.1.5.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.8.2.",
+      "target": "1.12.1.5.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.8.2.1.",
+      "target": "1.12.1.5.8.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.5.9.",
+      "target": "1.12.1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.",
+      "target": "1.12.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.1.",
+      "target": "1.12.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.1.1.",
+      "target": "1.12.2.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.1.1.1.",
+      "target": "1.12.2.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.1.2.",
+      "target": "1.12.2.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.1.2.",
+      "target": "1.12.2.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.2.",
+      "target": "1.12.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.3.",
+      "target": "1.12.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.3.1.",
+      "target": "1.12.2.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.3.2.",
+      "target": "1.12.2.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.3.3.",
+      "target": "1.12.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.3.3.1.",
+      "target": "1.12.2.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.3.3.1.1.",
+      "target": "1.12.2.3.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.4.",
+      "target": "1.12.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.4.1.",
+      "target": "1.12.2.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.4.2.",
+      "target": "1.12.2.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.5.",
+      "target": "1.12.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.",
+      "target": "1.12.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.1.",
+      "target": "1.12.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.1.1.",
+      "target": "1.12.3.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.1.2.",
+      "target": "1.12.3.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.",
+      "target": "1.12.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.2.1.",
+      "target": "1.12.3.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.2.",
+      "target": "1.12.3.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.3.",
+      "target": "1.12.3.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.3.",
+      "target": "1.12.3.2.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.3.",
+      "target": "1.12.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.4.",
+      "target": "1.12.3.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.4.1.",
+      "target": "1.12.3.2.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.2.4.2.",
+      "target": "1.12.3.2.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.2.4.2.1.",
+      "target": "1.12.3.2.4.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.2.5.",
+      "target": "1.12.3.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.2.5.1.",
+      "target": "1.12.3.2.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.5.3.",
+      "target": "1.12.3.2.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.2.5.4.",
+      "target": "1.12.3.2.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.3.",
+      "target": "1.12.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.3.1.",
+      "target": "1.12.3.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.3.2.",
+      "target": "1.12.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.3.3.",
+      "target": "1.12.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.3.4.",
+      "target": "1.12.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.3.5.",
+      "target": "1.12.3.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.3.5.1.",
+      "target": "1.12.3.3.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.5.",
+      "target": "1.12.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.5.1.",
+      "target": "1.12.3.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.5.2.",
+      "target": "1.12.3.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.5.2.1.",
+      "target": "1.12.3.5.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.5.2.2.",
+      "target": "1.12.3.5.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.5.2.3.",
+      "target": "1.12.3.5.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.3.6.",
+      "target": "1.12.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.7.",
+      "target": "1.12.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.4.",
+      "target": "1.12.",
+      "type": "support"
+    }
+  ]
+}

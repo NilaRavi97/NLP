@@ -1,0 +1,32 @@
+
+The provided graph represents a discussion about the effectiveness of sanctions imposed on Russia in response to its actions in Ukraine. The nodes represent different arguments or statements related to this topic, and the edges represent the relationships between them.
+
+Here is a summary of the arguments presented in the graph:
+
+1.6.5.3: The argument states that using leverage to force Russia to change its behavior is paradoxical because it makes Russia less likely to change, rendering any leverage pointless. This suggests that doing nothing might be the best approach.
+
+1.7: The argument asserts that lifting sanctions on Russia would embolden it to pursue its interests more brazenly.
+
+1.7.1: The argument points out that the weak response to Russia's invasion of Georgia in 2008 has contributed to its continued occupation of Abkhazia and South Ossetia, suggesting that a stronger stance is needed to address Russian aggression.
+
+1.7.2: The argument states that lifting sanctions five years after imposing them would signal to Russia that the EU and US are unwilling or unable to do anything about its misbehavior.
+
+1.7.2.1: The argument suggests that the United States' lifting of sanctions on Oleg Deripaska, a Putin ally, in January 2019 has emboldened Russia.
+
+1.7.2.3: The argument proposes that lifting sanctions in exchange for Russia's implementation of the Minsk agreement might incentivize it to follow through, as it did for Iran with the JCPOA.
+
+1.7.4: The argument stresses that Russia's actions directly threaten democratic systems in the West, including interference in the 2016 US Presidential Election, and therefore sustaining the sanction regime is necessary for self-defense.
+
+1.7.5: The argument suggests that lifting sanctions won't make a difference because Russia already has large domestic support for its foreign policy, and it will continue to carry out its policies regardless of sanctions.
+
+1.7.5.1: The argument notes that an increasing number of Russians favor strengthening ties with Western countries.
+
+1.7.5.3: The argument mentions that support for Vladimir Putin is at its lowest level since 2006 due to lack of faith in his foreign policy.
+
+1.7.5.4: The argument highlights that 93% of Russians supported the annexation of Crimea.
+
+1.7.5.5: The argument states that Putin's approval rating has ranged from 80-90% since the annexation of Crimea.
+
+1.7.5.6: The argument suggests that support for Russia's foreign policy is falling due to increased support by voters to fix domestic issues.
+
+In summary, the graph presents a variety of arguments related to the effectiveness of sanctions on Russia and the potential consequences of lifting them. Some arguments suggest that maintaining or strengthening sanctions is necessary to address Russian aggression, while others propose that doing so may not be effective or could even embolden Russia's behavior.

@@ -1,0 +1,44 @@
+
+The provided JSON data represents a directed graph with 20 nodes and 32 edges. The nodes in the graph represent various statements or arguments related to the topic of football, while the edges represent the relationships between these nodes.
+
+Here is a breakdown of the nodes and edges in the graph:
+
+Nodes:
+
+* 1.9.4.1.1.6. - High school football culture gives employment to coaches, janitorial staff, and other individuals that are responsible for supporting the team.
+* 1.9.4.1.1.7. - The game of football is not essentially exploitative. It is possible to play a game of football without exploiting anyone. Rather than banning football, we should ban what would make it exploitative.
+* 1.9.4.1.2. - The benefits of youth football for young athletes outweighs the harm brought about by exploitation.
+* 1.9.4.2. - Football players often end up unable to work in other industries because of the injuries they suffer during their career.
+* 1.9.4.2.1. - The NFL leaves players broken — and broke.
+* 1.9.4.2.2. - The game of football is not essentially exploitative. It is possible to play a game of football without exploiting anyone. Rather than banning football, we should ban what would make it exploitative.
+* 1.9.4.2.3. - The benefits of youth football for young athletes outweighs the harm brought about by exploitation.
+* 1.9.4.2.4. - Football players often end up unable to work in other industries because of the injuries they suffer during their career.
+* 1.9.4.2.4.1. - The NFL leaves players broken — and broke.
+* 1.9.4.3. - The benefits of youth football for young athletes outweighs the harm brought about by exploitation.
+* 1.9.4.5. - The game of football is not essentially exploitative. It is possible to play a game of football without exploiting anyone. Rather than banning football, we should ban what would make it exploitative.
+* 1.9.5. - The game of football is not essentially exploitative. It is possible to play a game of football without exploiting anyone. Rather than banning football, we should ban what would make it exploitative.
+* 1.9.8. - Football players often end up unable to work in other industries because of the injuries they suffer during their career.
+
+Edges:
+
+* 1.9.4.1.1.6. -> 1.9.4.1.1. (support)
+* 1.9.4.1.1.7. -> 1.9.4.1.1. (support)
+* 1.9.4.1.2. -> 1.9.4.1. (support)
+* 1.9.4.2. -> 1.9.4. (support)
+* 1.9.4.2.1. -> 1.9.4.2. (support)
+* 1.9.4.2.2. -> 1.9.4.2. (support)
+* 1.9.4.2.3. -> 1.9.4.2. (support)
+* 1.9.4.2.4. -> 1.9.4.2. (support)
+* 1.9.4.2.4.1. -> 1.9.4.2.4. (support)
+* 1.9.4.2.6. -> 1.9.4.2. (attack)
+* 1.9.4.2.6.1. -> 1.9.4.2.6. (support)
+* 1.9.4.2.6.2. -> 1.9.4.2.6. (support)
+* 1.9.4.2.6.2.1. -> 1.9.4.2.6.2. (attack)
+* 1.9.4.3. -> 1.9.4. (support)
+* 1.9.4.3.1. -> 1.9.4.3. (support)
+* 1.9.4.3.2. -> 1.9.4.3. (support)
+* 1.9.4.5. -> 1.9.4. (attack)
+* 1.9.5. -> 1.9. (attack)
+* 1.9.8. -> 1.9. (support)
+
+In this graph, there are 20 nodes and 32 edges. The nodes represent various statements or arguments related to the topic of football, while the edges represent the relationships between these nodes. The edges are labeled as either "support" or "attack," indicating whether the edge represents a supporting or attacking relationship between the nodes it connects.

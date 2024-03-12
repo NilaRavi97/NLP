@@ -1,0 +1,226 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "All transgender athletes should have to compete in men's divisions"
+    },
+    {
+      "id": "1.1.",
+      "text": "Female (male-to-female) transgenders maintain too many advantages from their masculinity to justify competing with women"
+    },
+    {
+      "id": "1.2.",
+      "text": "Female (male-to-female) transgenders do not receive the benefits from a male genotype if they did not undergo male puberty. Thus, female transgenders who did not undergo puberty should be allowed to compete with women, while those who did undergo male puberty should have to compete with men"
+    },
+    {
+      "id": "1.3.",
+      "text": "Testosterone injections give trangender males an unfair advantage"
+    },
+    {
+      "id": "1.3.1.",
+      "text": "Testosterone is not the only indicator of physical performance."
+    },
+    {
+      "id": "1.4.",
+      "text": "Transgender children are more likely to be bullied if they are not allowed to play on the team for the gender that they identify with."
+    },
+    {
+      "id": "1.5.",
+      "text": "Athletics should be separated by weight class or ability, not gender or sex, since this is a greater determining factor when it comes to athletic ability."
+    },
+    {
+      "id": "1.6.",
+      "text": "Male anatomy, especially bone structure and sheer size, give transgender females an unfair advantage over biological females"
+    },
+    {
+      "id": "1.6.1.",
+      "text": "Muscle mass to body mass ratios effectively reduce athletic effects in transgender women due to size unless size is a factor in the sport itself, like wrestling, which is already separated by weight class in most divisions."
+    },
+    {
+      "id": "1.7.",
+      "text": "Transgendered individuals should not be discriminated against by being forced to compete with the gender to which they don't identify"
+    },
+    {
+      "id": "1.7.1.",
+      "text": "The biological distinctions between men and women are not sufficient to override the desires of the individual."
+    },
+    {
+      "id": "1.7.1.1.",
+      "text": "I think that is a red herring. As individuals, do as you wish. But we're discussing how to create rules for a whole group of individuals -- athletic rules. We are not overriding the desires of individuals, we are discussing whether the desires of one individual are sufficient reason to override fairness for a whole group of people"
+    },
+    {
+      "id": "1.8.",
+      "text": "Transgender Males generally want to compete with men anyways"
+    },
+    {
+      "id": "1.9.",
+      "text": "Boys should not be forced to compete with women, have to beat them up, or be placed at a disadvantage by having them on their team because transgender males identify as men despite being females biologically"
+    },
+    {
+      "id": "1.9.1.",
+      "text": "Society's rules of boy's not beating up girls shouldn't be relevant in sport and because trans boys are not girls."
+    },
+    {
+      "id": "1.9.2.",
+      "text": "Forcing trans men to compete with cis women forces boys to compete, beat up, and be on a team with girls."
+    },
+    {
+      "id": "1.9.3.",
+      "text": "They wouldn't be competing with or beating up women. They're transgendered; they'd be beating another man."
+    },
+    {
+      "id": "1.9.4.",
+      "text": "Rules in sports should obey rigid standards like biology, especially given biology's direct impact on the ability of an individual"
+    },
+    {
+      "id": "1.9.4.1.",
+      "text": "Biological sex has less impact on athletic performance than hormones."
+    },
+    {
+      "id": "1.10.",
+      "text": "Some transgendered individuals do not undergo hormonal treatment, so there is no unfairness in their cases"
+    },
+    {
+      "id": "1.11.",
+      "text": "Transgender women (male-to-female) should compete with women"
+    },
+    {
+      "id": "1.11.1.",
+      "text": "The guidelines for international competition suggest that it's testosterone that gives an advantage, not chromosomes or genitals."
+    },
+    {
+      "id": "1.11.1.1.",
+      "text": "While testosterone is one major part of the athletic differences between men and women, there are also major, permanent anatomical differences like bone structure. NIH Study The fact that chromosomes determine sex, and sex determines these factors means that chromosomes do give various advantages and disadvantages which should be reflected in athletic rules"
+    },
+    {
+      "id": "1.11.2.",
+      "text": "If they were born male and have no hormone therapy, they are essentially still physically male; this gives them an advantage."
+    },
+    {
+      "id": "1.11.3.",
+      "text": "A transgender women(male to female) still has the strength,reflexes and spatial awareness of a male which gives said individual an unfair advantage against non-trans women. Men are proven to have better spatial awareness than women, hence the men being hunters historically. Regardless of sport, transgender women have an unfair advantage."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.1.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.1.1.",
+      "target": "1.7.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.2.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.3.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.4.",
+      "target": "1.9.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.4.1.",
+      "target": "1.9.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.10.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.1.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.1.1.",
+      "target": "1.11.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.2.",
+      "target": "1.11.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.3.",
+      "target": "1.11.",
+      "type": "attack"
+    }
+  ]
+}

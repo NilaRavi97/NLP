@@ -1,0 +1,136 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Air Traffic Control (ATC) should not be privatized."
+    },
+    {
+      "id": "1.1.",
+      "text": "Private actors are more likely to focus their investment into the most profitable ATCs."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "Private companies will charge more to use ATCs with more expensive equipment which will motivate airlines to move to less safe ATCs."
+    },
+    {
+      "id": "1.2.",
+      "text": "Air lines are in favor of privatization."
+    },
+    {
+      "id": "1.3.",
+      "text": "The Union of National Air Traffic Controllers is in favor of privatization."
+    },
+    {
+      "id": "1.4.",
+      "text": "Privatization of air control works in other countries, such as Canada."
+    },
+    {
+      "id": "1.4.1.",
+      "text": "Territorially speaking, Canada is roughly the same size as the US."
+    },
+    {
+      "id": "1.5.",
+      "text": "Safety remains the top priority"
+    },
+    {
+      "id": "1.6.",
+      "text": "The US leads the global ATC community in technology and procedure development."
+    },
+    {
+      "id": "1.7.",
+      "text": "The US is the most complex AND safest air traffic systems in the world"
+    },
+    {
+      "id": "1.8.",
+      "text": "Next generation technology deployment is not as quick as private sector."
+    },
+    {
+      "id": "1.9.",
+      "text": "Government management of the air traffic system ensures all users are treated equally"
+    },
+    {
+      "id": "1.10.",
+      "text": "Tax payer dollars partially fund private aviation activities"
+    },
+    {
+      "id": "1.11.",
+      "text": "The public funding of the National Airspace System (NAS) system has worked well for over 100 years"
+    },
+    {
+      "id": "1.12.",
+      "text": "The US Air Traffic System is so complex and integrated with multiple nodes within the global civil air ATS, that just the planning which would be involved in privatizing the entire system would take decades and cost hundreds of millions of dollars. The execution of the processes which would be required for privatization would cost even more than the planning, which would result in billions of dollars diverted from other ATS modernization priorities ."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.1.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.",
+      "target": "1.",
+      "type": "support"
+    }
+  ]
+}

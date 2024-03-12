@@ -1,0 +1,2 @@
+
+Teaching coding in schools can enhance cognitive skills and prepare students for the job market, but there are concerns about resources and staffing. Trained teachers are in short supply, leading to a lack of computing teachers and schools not offering Computer Science at GCSE. While educational apps can teach coding without teacher guidance, a teacher is needed to support the development of computational thinking in young minds.

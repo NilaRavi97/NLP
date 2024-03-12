@@ -1,0 +1,199 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Agile certifications do not advance Agile thinking"
+    },
+    {
+      "id": "1.1.",
+      "text": "Certifications can be a way for those who are new to Agile to quickly cover a lot of ground."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "Following a set curriculum makes it easy to know where to start and what core material need to be covered."
+    },
+    {
+      "id": "1.2.",
+      "text": "Certifications support and are built on current ways of thinking."
+    },
+    {
+      "id": "1.3.",
+      "text": "Certification programs exist to make money for the training companies, not to encourage new thinking."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "There is no evidence that can prove this is the only motivation for training companies."
+    },
+    {
+      "id": "1.4.",
+      "text": "Certifications force people to think deeply about the material, which can lead to new ideas along the way."
+    },
+    {
+      "id": "1.4.1.",
+      "text": "Certifications are usually obtained through learning, not through thinking. Quite the opposite: 'thinking' may lead to 'wrong' answers in the final exams."
+    },
+    {
+      "id": "1.4.2.",
+      "text": "Certifications force people to read and reflect a lot to be able elaborate their own positions. This certainly benefits thinking."
+    },
+    {
+      "id": "1.5.",
+      "text": "Certifications are not difficult to obtain."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "That depends on the certification and the person's existing capacity and knowledge."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "Many certifications are designed in a way that (just) require learning as opposed to understanding."
+    },
+    {
+      "id": "1.6.",
+      "text": "Certifications prove you are serious about your craft and willing to take the time to learn and improve."
+    },
+    {
+      "id": "1.6.1.",
+      "text": "This may be useful as a sign to employers, but does not necessarily advance the skill."
+    },
+    {
+      "id": "1.6.2.",
+      "text": "While Certifications are a sign that someone has taken some time to learn, they don't necessarily denote seriousness about a craft. There may be many other motivations to obtain such sign."
+    },
+    {
+      "id": "1.7.",
+      "text": "Certifications lock you into one way of thinking/methodology (Scrum, Kanban, etc) and not how Agile applies across multiple methodologies."
+    },
+    {
+      "id": "1.8.",
+      "text": "Experience counts for way more than training."
+    },
+    {
+      "id": "1.8.1.",
+      "text": "Agile is a practice, it's a practical approach to building software. As such, it is only through practical application that such a practice can be mastered."
+    },
+    {
+      "id": "1.8.2.",
+      "text": "Even if this is true, that does not prove that certifications don't advance agile thinking, just that they are not the most effective way of doing so."
+    },
+    {
+      "id": "1.8.3.",
+      "text": "It is impossible to get experience without first understanding some basics."
+    },
+    {
+      "id": "1.8.4.",
+      "text": "Some certifications require practical experience, even if within the context of the certification."
+    },
+    {
+      "id": "1.9.",
+      "text": "Certifications reward those who are good at taking tests."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.1.",
+      "target": "1.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.2.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.1.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.2.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.1.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.2.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.3.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.4.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "support"
+    }
+  ]
+}

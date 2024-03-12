@@ -1,0 +1,136 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "decentralized marketplaces, like Open Bazaar, are antithetical to privacy preserving trustless marketplaces."
+    },
+    {
+      "id": "1.1.",
+      "text": "Decentralized marketplaces require ALL users to host/store and distribute content, which may make it easier to deanonymize users as opposed to buyers and sellers just visiting a website."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "The risk of deanonymization is at least as high for centralized marketplaces as information is usually stored, as the name suggests, in a central location."
+    },
+    {
+      "id": "1.1.2.",
+      "text": "The more people are involved in running a marketplace, and the more eyes are on the software that powers it, the higher the chance that security problems and privacy risks are quickly found and patched."
+    },
+    {
+      "id": "1.2.",
+      "text": "Decentralized marketplaces are global in nature and not bound to local laws and regulations to the same degree that other marketplaces are. This serves to protect the privacy of users against interference, for example by governments."
+    },
+    {
+      "id": "1.3.",
+      "text": "Centralized marketplaces can make performing a sybil attack expensive, and when discovered can be dealt with by administrators."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "It takes enormous expertise to effectively and quickly deal with sybil attacks. Especially smaller marketplaces may not be able to provide this."
+    },
+    {
+      "id": "1.4.",
+      "text": "Centralized marketplaces may be able to perform sybil attacks if the administration (escrow agent) acts as a seller."
+    },
+    {
+      "id": "1.4.1.",
+      "text": "This could be mitigated by doing only 2 of 2 multisig transactions between the seller and buyer directly excluding the possibility for the marketplace/seller having 2 of the 3 keys."
+    },
+    {
+      "id": "1.4.2.",
+      "text": "This is also possible on decentralized marketplaces if there is an escrow agent, which is possible on Open Bazaar."
+    },
+    {
+      "id": "1.5.",
+      "text": "Centralized marketplaces can engage in cronyism, preventing some sellers of specific goods but allowing others favored users."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "This usually does not happen as the damage to the market place's reputation would be enormous if any sort of cronyism is revealed to the public."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "This issue is mitigated if there are many centralized marketplaces competing in a free market."
+    },
+    {
+      "id": "1.6.",
+      "text": "Centralized marketplaces have a better alignment of incentives. Administrators are kept honest by competition and financial incentives from seller fees. Escrow agents on a decentralized marketplace could easily be bribed or do selective scams."
+    },
+    {
+      "id": "1.7.",
+      "text": "Centralized marketplaces can provide the maximum amount of privacy as encrypted communication, use of Monero, and Tor/Kovri. The only draw back is centralized marketplaces can be taken down. If we find that decentralized marketplaces cannot provide the same amount of privacy and security, having the product information/postings being taken down is not a good trade: this is unimportant information, and can easily be backed up by sellers and other users."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.1.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.2.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "support"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+
+Decentralized marketplaces like Open Bazaar are argued to be more privacy-preserving and secure due to their lack of a central authority, but also present risks of deanonymization and sybil attacks. Centralized marketplaces may have a higher risk of cronyism and are vulnerable to being taken down, but offer better alignment of incentives and can provide maximum privacy through encryption and use of Monero and Tor/Kovri. The debate highlights the importance of competition and financial incentives for keeping administrators honest.

@@ -1,0 +1,2 @@
+
+Decentralized marketplaces prioritize privacy and security by requiring users to host and distribute content, making it difficult for buyers and sellers to be deanonymized. Centralized marketplaces may engage in cronyism and favor certain sellers, but can provide maximum privacy through encryption and Tor/Kovri. Both are susceptible to deanonymization, but decentralized marketplaces are less susceptible to government interference.

@@ -1,0 +1,335 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "A free Press is necessary to democracy."
+    },
+    {
+      "id": "1.1.",
+      "text": "Competition for readers leads to the publication of what is popular, not what is right or what is needed."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "Media with the most reach require funding, which can lead to the content of those media being influenced by those who provide the funding."
+    },
+    {
+      "id": "1.1.2.",
+      "text": "Freedom of the Press can lead to a search for scandal."
+    },
+    {
+      "id": "1.1.3.",
+      "text": "This would be the case in a free or censored press."
+    },
+    {
+      "id": "1.1.4.",
+      "text": "Many readers value high-quality, factually correct content, and competition should thus ensure that such content is published, ensuring that the Press continues its function supporting democracy"
+    },
+    {
+      "id": "1.2.",
+      "text": "Exposing corruption reduces the incidence of corruption."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "Or causes it to go deeper underground."
+    },
+    {
+      "id": "1.3.",
+      "text": "Elections are possible without a free press. This means that a free press is more auxiliary to the process."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "Voters require reasonably complete and accurate information about the actions of politicians in order to hold them properly to account."
+    },
+    {
+      "id": "1.3.1.1.",
+      "text": "Informed choice by voters leads to the selection of politicians who reflect the actual values of the voters."
+    },
+    {
+      "id": "1.3.1.1.1.",
+      "text": "A free Press that exposes both the public and the hidden actions of politicians ensures that voters know what those politicians are actually doing."
+    },
+    {
+      "id": "1.3.1.1.2.",
+      "text": "More information leads to better choices."
+    },
+    {
+      "id": "1.3.1.2.",
+      "text": "Citizens should be free to criticise their governors and to hold them to account. A free Press supports this right."
+    },
+    {
+      "id": "1.3.2.",
+      "text": "Media controlled by politicians are less likely to be free to criticise those politicians."
+    },
+    {
+      "id": "1.3.2.1.",
+      "text": "They are free to criticize but do not because it is not in their best interests."
+    },
+    {
+      "id": "1.3.2.2.",
+      "text": "Those who control a thing will use it to support their own interests."
+    },
+    {
+      "id": "1.3.2.3.",
+      "text": "Criticism of others is not as valuable to a society as promoting innovative, evidence-based ideas for fixing problems."
+    },
+    {
+      "id": "1.3.2.3.1.",
+      "text": "Problems must nonetheless be identified before solutions can be created. In particular, the problems must be shared before the solutions will be widely accepted."
+    },
+    {
+      "id": "1.3.2.3.2.",
+      "text": "Criticism itself has limited value in that it is purely negative. Actual change requires positive suggestions also."
+    },
+    {
+      "id": "1.3.2.3.3.",
+      "text": "Solutions should be the goal of all discussion about problems."
+    },
+    {
+      "id": "1.3.3.",
+      "text": "All democracies have limits on Press freedom."
+    },
+    {
+      "id": "1.3.3.1.",
+      "text": "Limitations on press freedom do not mean that the press isn't free. This is a matter of degree."
+    },
+    {
+      "id": "1.6.",
+      "text": "A robust democracy requires mechanisms to reinforce democratic forms and their effectiveness, in order to prevent a takeover of power by other forces, and a free Press is one of those mechanisms."
+    },
+    {
+      "id": "1.7.",
+      "text": "A free press enables the publication of unsupported information as fact, misinforming the public."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "Non-free (e.g. state-controlled) media also publish unsupported information, so this problem is not exclusive to a Free Press."
+    },
+    {
+      "id": "1.7.2.",
+      "text": "A free press consists of publications that keep each other in check, thereby unveiling and sanctioning the publication of false or misleading information."
+    },
+    {
+      "id": "1.8.",
+      "text": "The freedom to say and write anything true is a fundamental value of democracies."
+    },
+    {
+      "id": "1.8.1.",
+      "text": "Government by the people requires an electorate that is familiar with the issues and the evidence for the positions and policies behind them."
+    },
+    {
+      "id": "1.8.2.",
+      "text": "Many kinds of speech are harmful to society, including hatred, bigotry and libel."
+    },
+    {
+      "id": "1.9.",
+      "text": "The foundational principle of a free society is that rightful political power comes from the consent of the governed. However, consent is meaningless unless it is informed consent. A \"democracy\" where the only sources of information about the actions of the government is government propaganda is for this reason not truly free or democratic.\n\nen.wikipedia.org\nen.wikipedia.org"
+    },
+    {
+      "id": "1.10.",
+      "text": "The Press needs to be free (a right) but also needs to be responsible. Freedom need not mean that anything goes. If it does, argument can degenerate into slanging matches, which increases divisions, and logic and rationality can be lost to sensationalism."
+    },
+    {
+      "id": "1.11.",
+      "text": "Opinions published in the Media will reflect the interests of their owners (i.e. those with power) rather than being in the interests of the People."
+    },
+    {
+      "id": "1.11.1.",
+      "text": "A publication that represents the interests of its owner is, by definition not a \"free\" publication (i.e. one what can publish what is true and important, regardless of bias or influence)."
+    },
+    {
+      "id": "1.12.",
+      "text": "Citizens are not required to have specific educational achievements before voting, nor to demonstrate familiarity with current events. A free Press is therefore unnecessary for the exercise of democracy."
+    },
+    {
+      "id": "1.12.1.",
+      "text": "Specific educational achievements may not be required, but voters should have as unbiased a view as possible of current events and policy so that they can vote in a reasonable way."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.2.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.3.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.4.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.1.",
+      "target": "1.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.1.1.",
+      "target": "1.3.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.1.2.",
+      "target": "1.3.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.2.",
+      "target": "1.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.2.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.2.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.2.1.",
+      "target": "1.3.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.2.2.",
+      "target": "1.3.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.2.3.",
+      "target": "1.3.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.2.3.1.",
+      "target": "1.3.2.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.2.3.2.",
+      "target": "1.3.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.2.3.3.",
+      "target": "1.3.2.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.3.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.3.1.",
+      "target": "1.3.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.2.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.1.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.2.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.10.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.1.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.",
+      "target": "1.12.",
+      "type": "attack"
+    }
+  ]
+}

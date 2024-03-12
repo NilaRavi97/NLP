@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Countries are right to dispel Russian diplomats over the Skripal poisoning case."
+    },
+    {
+      "id": "1.1.",
+      "text": "To punish before proving is no more than a political farce."
+    },
+    {
+      "id": "1.2.",
+      "text": "They had not liaised with the OPCW about the source of the nerve agent until 14th March. Therefore independent analysis is inconclusive."
+    },
+    {
+      "id": "1.3.",
+      "text": "According to the UK Government, Russia is highly likely to have caused this."
+    },
+    {
+      "id": "1.4.",
+      "text": "Countries must show adversity to Putin's regime who has committed crime in the past."
+    },
+    {
+      "id": "1.5.",
+      "text": "It helps bring together the countries in show of solidarity. It is opposite to Putin's alleged attempt to divide the West."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "It is illegitimate to put western solidarity ahead of an individual country's interests."
+    },
+    {
+      "id": "1.6.",
+      "text": "UK failed to provide Russia with a sample, in order for them to conclude how the nerve agent managed to get there."
+    },
+    {
+      "id": "1.7.",
+      "text": "Trump and several other high profile figures failed to mention the Skripal poisoning case when talking with Putin."
+    },
+    {
+      "id": "1.8.",
+      "text": "This is likely to provoke Russia, and cause increased tensions between the West and Russia. Most people would prefer not to worsen the current relationship as it may lead to another war."
+    },
+    {
+      "id": "1.9.",
+      "text": "UK has evidence of Russia stockpiling deadly nerve agents for assassinations in last ten years, according to Boris Johnson."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "support"
+    }
+  ]
+}

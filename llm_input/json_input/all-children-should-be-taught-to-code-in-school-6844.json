@@ -1,0 +1,1055 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "All children should be taught to code in school"
+    },
+    {
+      "id": "1.1.",
+      "text": "Adding coding to the school curriculum means that something else must be left out."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "In many countries \"IT\" is already a subject where children learn how to use \"MS Office\". That's something they could learn on their own, easier than coding by far."
+    },
+    {
+      "id": "1.1.2.",
+      "text": "Coding can be integrated into pre-existing subjects such as sciences and mathematics. For example, Conrad Wolfram proposed Computer-Based Maths as a way to augment mathematics curriculum with computer-based calculation."
+    },
+    {
+      "id": "1.1.3.",
+      "text": "School curricula are already overloaded. This problem has been highlighted by many observers, including Nobel Laureate Amartya Sen."
+    },
+    {
+      "id": "1.1.3.1.",
+      "text": "With good staffing and resources (i.e. good funding), schools can cope with the demands of expanding curricula."
+    },
+    {
+      "id": "1.1.3.2.",
+      "text": "Either the basics and essentials are not taught in schools, or they are offloaded to out-of-school homework."
+    },
+    {
+      "id": "1.1.4.",
+      "text": "In the past, traditional subjects such as Homemaking for girls existed. These have now been abandoned and replaced with more relevant and vital subjects."
+    },
+    {
+      "id": "1.2.",
+      "text": "Coding can be taught through problem-solving exercises, developing important cognitive skills such as logic and procedural thinking."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "Logic is a good skill to have as a citizen participating in public discourse, and for understanding the structure of language. Coding can be an engaging and practical tool for teaching logic."
+    },
+    {
+      "id": "1.2.2.",
+      "text": "Coding is less abstract and more applied than maths while it develops similar skills."
+    },
+    {
+      "id": "1.2.3.",
+      "text": "Problem-solving and other skills can also be developed through exercises not related to coding."
+    },
+    {
+      "id": "1.2.3.1.",
+      "text": "True, but coding also gives the students understanding of how our digital world is made, an understanding that will give them the opportunity to create and develop new and better technology and software. Sure not everyone will be programmers, but having the understanding makes it easier to be creative in all occupations when it comes to improving it. Developing skills through many subjects is good for the students."
+    },
+    {
+      "id": "1.2.4.",
+      "text": "\"Learning transfer\" is a much debated issue in cognitive sciences and it is unclear whether coding experience can help develop thinking in other contexts."
+    },
+    {
+      "id": "1.2.5.",
+      "text": "Students having computer programming experiences scored about 16 percentile points higher on various cognitive ability tests than students who did not have programming experiences. This was demonstrated in an early meta-study published in 1991."
+    },
+    {
+      "id": "1.2.6.",
+      "text": "Computer code relies on strict causality and therefore teaches logic very effectively."
+    },
+    {
+      "id": "1.2.7.",
+      "text": "A combination of both conceptual and procedural thinking is necessary to fully appreciate a complex problem and the different ways to solve it. Star (2002) showed that students demonstrating both conceptual and procedural understanding were solving linear equations \"more intelligently\"."
+    },
+    {
+      "id": "1.3.",
+      "text": "Coding and computer science are too hard and children should be allowed to play and enjoy childhood. They can become experts later."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "There are so many games or toys available that teach children coding basics, that it is becoming more accessible and easier to learn."
+    },
+    {
+      "id": "1.3.1.1.",
+      "text": "Just like with many other things, kids are more apt to learn something if they have an interest in it or someone in their lives who does."
+    },
+    {
+      "id": "1.3.1.2.",
+      "text": "Innovation in toy design, access to child oriented tablets and tech, all combine to teach logic skills that are the foundation for coding. www.livescience.com"
+    },
+    {
+      "id": "1.3.2.",
+      "text": "If this statement was true, then there should not be schools at all. All courses have difficulties for some pupils."
+    },
+    {
+      "id": "1.3.3.",
+      "text": "Coding for children can be done in play or game format. Children can learn and progress through levels as their skills and interest allow."
+    },
+    {
+      "id": "1.3.4.",
+      "text": "Having coding skills enables children to make cool projects with arduino or other platforms."
+    },
+    {
+      "id": "1.3.5.",
+      "text": "But if that were a concern, schools could simply wait until middle or high school to teach coding."
+    },
+    {
+      "id": "1.3.6.",
+      "text": "A lot of great coders learned as adults."
+    },
+    {
+      "id": "1.3.6.1.",
+      "text": "That could be said about any skill, it is not an argument for why it should not be taught to children."
+    },
+    {
+      "id": "1.3.7.",
+      "text": "Young children learn better and acquire new skills faster."
+    },
+    {
+      "id": "1.3.7.1.",
+      "text": "Adults typically learn faster than children by hours spent learning. Children appear to learn faster as they are able to devote more hours to learning."
+    },
+    {
+      "id": "1.3.8.",
+      "text": "Kids already spend too much time in front of computer screens, taking away from other activities."
+    },
+    {
+      "id": "1.3.8.1.",
+      "text": "Programming is active, staying in front of a screen is passive. They are not related."
+    },
+    {
+      "id": "1.3.9.",
+      "text": "Learning Coding is not so dissimilar to learning algebra, which is already taught as part of school mathematics classes."
+    },
+    {
+      "id": "1.4.",
+      "text": "Teaching coding to all students can reduce the gender gap in programming."
+    },
+    {
+      "id": "1.5.",
+      "text": "Being able to understand computer code is important - it is becoming part of being literate."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "The vast majority of people won't need it. Since the invention of the GUI, more and more tasks can be accomplished without writing commands or code. Today, almost everyone does some of their work on computers, but relatively few people need to write code."
+    },
+    {
+      "id": "1.5.1.1.",
+      "text": "Understanding coding allows automation of one-off or personal tasks which software may not support - for example, saving a list of the names of files in a folder into a text file."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "Our society is increasingly more reliant on information systems in all aspects of our lives."
+    },
+    {
+      "id": "1.5.3.",
+      "text": "As coding is a trade it should not be included as school is reserved for teaching basic skills, such as Math or English."
+    },
+    {
+      "id": "1.5.4.",
+      "text": "Understanding technology is not the same as using technology. One needs to understand in order to be able to assess advantages and disadvantages, opportunities and risks."
+    },
+    {
+      "id": "1.5.5.",
+      "text": "Being able to interact with and use digital products does not require one to understand the code behind them."
+    },
+    {
+      "id": "1.5.5.1.",
+      "text": "Everyone needs a basic understanding of cars, since you might need to change a tire or do some simple maintenance. Basic programming will give you the same insights with some problems you encounter with electronic devices, programs etc."
+    },
+    {
+      "id": "1.5.6.",
+      "text": "As with many other engineering disciplines, training some specialists is sufficient to meet the demand - not everyone needs to know how to construct a bridge."
+    },
+    {
+      "id": "1.5.7.",
+      "text": "Basic literacies of writing, reading and arithmetics should be addressed better before devoting resources to coding."
+    },
+    {
+      "id": "1.5.7.1.",
+      "text": "One has to know how to write and read properly in order to code."
+    },
+    {
+      "id": "1.5.8.",
+      "text": "The majority of computer code for software in current use is too large for anyone to understand, even those who wrote it."
+    },
+    {
+      "id": "1.6.",
+      "text": "Coding skills are much needed in today's job market."
+    },
+    {
+      "id": "1.6.1.",
+      "text": "The European Commission predicts up to 825,000 IT vacancies by 2020."
+    },
+    {
+      "id": "1.6.2.",
+      "text": "More and more fields such as finance, medicine, entertainment etc. are relying on programming."
+    },
+    {
+      "id": "1.6.2.1.",
+      "text": "Statistical modelling, including machine learning techniques, is a crucial component of predicting market behaviour in finance."
+    },
+    {
+      "id": "1.6.2.2.",
+      "text": "Virtually all trading exchanges in finance operate digitally today, and automated trading algorithms such as high frequency trading have transformed the industry beyond recognition."
+    },
+    {
+      "id": "1.6.2.3.",
+      "text": "An increasing number of technologies (e.g. genome sequencing) allows us to collect large amounts of medically relevant data, which needs to be processed, stored, retrieved and analysed."
+    },
+    {
+      "id": "1.6.2.4.",
+      "text": "A large number of films produced today rely on computer generated imagery (CGI) in some way."
+    },
+    {
+      "id": "1.6.2.5.",
+      "text": "Computer, console and mobile game industries are big part of the entertainment sector."
+    },
+    {
+      "id": "1.6.2.6.",
+      "text": "Machine learning and data science are gradually permeating all aspects of our lives and transform industries, often being referred to as the driving force behind a new industrial revolution."
+    },
+    {
+      "id": "1.6.3.",
+      "text": "Professions and skills that are most in demand today may not be the same as those in demand tomorrow."
+    },
+    {
+      "id": "1.6.3.1.",
+      "text": "In developed countries, employment in primary and secondary sector jobs is being replaced by employment in tertiary and quaternary sectors."
+    },
+    {
+      "id": "1.6.3.2.",
+      "text": "Artificial Intelligence is rapidly changing the way we program computers, potentially making our current approaches irrelevant in the future. Andrej Karpathy calls this Software 2.0, while Andrew Ng sees a more general trend of AI facilitating a new industrial revolution."
+    },
+    {
+      "id": "1.6.3.3.",
+      "text": "General cognitive skills can be considered \"timeless\" and applicable to a wide range of jobs."
+    },
+    {
+      "id": "1.6.4.",
+      "text": "Computer science graduates in the UK have high unemployment rates. According to Destinations of Leavers from Higher Education 2009/10 (HESA), 14.7% of computer science graduates were unemployed compared to 9.1% average - the highest among all subject groups. See page 15."
+    },
+    {
+      "id": "1.6.5.",
+      "text": "Work experience usually counts more than educational background in the IT sector."
+    },
+    {
+      "id": "1.6.5.1.",
+      "text": "Having a degree only means that you are good at studying, not necessarily at applying your skills in real life."
+    },
+    {
+      "id": "1.6.5.2.",
+      "text": "Course content often becomes outdated fast - especially in a field like computer science - and only real-life exposure to the cutting edge can help keep up with the most relevant ideas and technologies."
+    },
+    {
+      "id": "1.6.5.3.",
+      "text": "Theoretical understanding helps generalise and provides rigorous foundations for solving a wide range of problems."
+    },
+    {
+      "id": "1.6.5.4.",
+      "text": "Work experience may provide you with skills too specific for a particular job, making it non-transferable to other jobs in the field."
+    },
+    {
+      "id": "1.6.5.5.",
+      "text": "Some positions may require specific qualifications. For example, research jobs in IT often need a PhD or at least a masters degree."
+    },
+    {
+      "id": "1.6.6.",
+      "text": "'There have been estimations that over the coming decade approximately 1.4 million computer science-based jobs will be created but only around 400,000 graduates will be qualified to fill them' - edtechnology.co.uk"
+    },
+    {
+      "id": "1.7.",
+      "text": "Coding can be a gateway for studying STEM subjects in the future."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "Universal and mandatory teaching of code may encourage students who might not have considered STEM subjects, especially girls, to take an interest in them."
+    },
+    {
+      "id": "1.7.2.",
+      "text": "All areas of STEM are relying increasingly more on programming."
+    },
+    {
+      "id": "1.7.3.",
+      "text": "If coding is not taught well, it can dissuade students from further study of STEM subjects."
+    },
+    {
+      "id": "1.7.3.1.",
+      "text": "That is why we should have teachers who have degrees in programming to teach coding. If a subject is not taught well it will hinder further studying of that subject. However, this can be said about any subject, not just coding and STEM subjects."
+    },
+    {
+      "id": "1.8.",
+      "text": "Being able to code gives one a new way for creative self-expression."
+    },
+    {
+      "id": "1.8.1.",
+      "text": "There are countless other ways of creative self-expression which are not taught at school either."
+    },
+    {
+      "id": "1.8.1.1.",
+      "text": "Coding only needs a computer for self-expression, unlike other ways which may require more (varied) resources that the school would need to provide."
+    },
+    {
+      "id": "1.8.2.",
+      "text": "The creators of Scratch, a very popular free coding application that is used to teach procedural thinking, wrote in a blog post: \"We see coding as a new way for people to organize, express, and share their ideas.\" Scratch has been successfully adopted by many educators as a way of teaching coding through self-expression, e.g. as described by this teacher."
+    },
+    {
+      "id": "1.8.3.",
+      "text": "There are parallels between the work of artists and programmers - expression paths are constrained by rules and both have similar concepts of using ideology and mediums as different tools to solve problems."
+    },
+    {
+      "id": "1.9.",
+      "text": "Teaching coding has little pedagogical value in and of itself."
+    },
+    {
+      "id": "1.9.1.",
+      "text": "Children should be taught general problem-solving and creative skills, not coding. The tools for writing code change too frequently for a meaningful curriculum to persist."
+    },
+    {
+      "id": "1.9.1.1.",
+      "text": "The most popular languages in use today are Java (22 years old) and C (48 years old). Changes to these since then have been evolutionary, not revolutionary."
+    },
+    {
+      "id": "1.9.1.2.",
+      "text": "Children could be taught programming logic with tools like Scratch. This is language independent."
+    },
+    {
+      "id": "1.9.1.3.",
+      "text": "Writing code is relatively easy to learn and the fundamentals are language independent for the most part."
+    },
+    {
+      "id": "1.9.1.4.",
+      "text": "Problem solving involves a given set of tools usable to solve the problem. Coding is the most versatile tool for all logic-related problems."
+    },
+    {
+      "id": "1.9.2.",
+      "text": "Coding is a means of teaching formulating and understanding requirements/specifications, which is reading comprehension."
+    },
+    {
+      "id": "1.9.3.",
+      "text": "A large part of coding is planning and execution. Coding challenges the mind to improve these skills, usually with instant feedback."
+    },
+    {
+      "id": "1.9.4.",
+      "text": "A large part of programming education involves routine, mechanical processes. These are more easily learned in a different setting (not school)."
+    },
+    {
+      "id": "1.9.4.1.",
+      "text": "Only learning the language involves learning routines and mechanical processes; once the syntax of the language is known, programming is a creative process."
+    },
+    {
+      "id": "1.9.5.",
+      "text": "Coding may help engage otherwise disinterested learners."
+    },
+    {
+      "id": "1.9.6.",
+      "text": "Those with an aptitude for coding can discover it early."
+    },
+    {
+      "id": "1.9.6.1.",
+      "text": "School isn't the only place where one could learn coding."
+    },
+    {
+      "id": "1.9.7.",
+      "text": "Coding can help develop everyday life skills."
+    },
+    {
+      "id": "1.9.7.1.",
+      "text": "Endurance in problem solving - bugs won't go away on their own, one has to have the tenacity and the patience to resolve the issues."
+    },
+    {
+      "id": "1.9.7.2.",
+      "text": "Problem perception and situation analysis - a problem that may seem intractable can be broken down into smaller constituent problems and solved piece by piece."
+    },
+    {
+      "id": "1.9.7.3.",
+      "text": "Anticipating errors - learning that perfect code is never written on the first attempt is a helpful lesson to extend to other areas of life."
+    },
+    {
+      "id": "1.9.7.4.",
+      "text": "Process optimisation and systematic organisation - just as code needs to be improved to run faster and be more organised, inefficiencies in everyday life can also be addressed systematically."
+    },
+    {
+      "id": "1.9.7.5.",
+      "text": "Procedural thinking - identifying and following a multi-step procedure to solve complex problems is necessary even in simple situations such as assembling IKEA furniture or figuring out why the lights don't work."
+    },
+    {
+      "id": "1.9.7.6.",
+      "text": "Abstraction and simplification - applying the same principles to daily life can be overly simplistic when faced with complex issues such as interpersonal relations and communication."
+    },
+    {
+      "id": "1.9.9.",
+      "text": "Numerous studies have shown positive correlation between learning to code and developing general problem-solving, research, and mathematical thinking skills."
+    },
+    {
+      "id": "1.9.10.",
+      "text": "Coding provides training in precise, logical thought. In that respect, it slots into the pedagogical niche that used to be filled by learning geometry."
+    },
+    {
+      "id": "1.10.",
+      "text": "Failing to offer coding at school puts lower socioeconomic student populations at a disadvantage compared to peers who are more likely to have reliable technology access at home."
+    },
+    {
+      "id": "1.11.",
+      "text": "Teaching coding effectively is impossible unless teachers are trained appropriately first."
+    },
+    {
+      "id": "1.11.1.",
+      "text": "This is true of most school subjects, and it not a con specific to programming."
+    },
+    {
+      "id": "1.11.2.",
+      "text": "In the UK, a ten-fold increase in funding computer science at schools is needed, according to the Royal Society, in order to put the subject on par with physics and mathematics."
+    },
+    {
+      "id": "1.11.3.",
+      "text": "Only 68 per cent of England's computing teacher recruitment targets are met and, as a result, one in two schools don't offer Computer Science at GCSE, according to the Royal Society."
+    },
+    {
+      "id": "1.11.4.",
+      "text": "An increasing number of educational apps are being developed that allow for teaching coding without any teacher guidance. For example, LightBot or Scratch."
+    },
+    {
+      "id": "1.11.4.1.",
+      "text": "A teacher is required to support the development of computational thinking in young minds. Abstract concepts such as computational thinking develop through formative years (S Papert) and teachers enable pupils to step into a new way of thinking."
+    },
+    {
+      "id": "1.11.5.",
+      "text": "If the inability of teachers to teach was the reason subjects would be neglected, then education as such would never have been possible from the beginning on."
+    },
+    {
+      "id": "1.11.6.",
+      "text": "The need for technology teachers will be met when the demand for applicable coding class are required. Schools focus on Microsoft software user certification for monetary reimbursement. If students with Javascript or PHP experience had access to post graduation programs that non-tech students did not, then the demand for coding class would increase.  Public could push the supply and demand wheel in favor of coding courses."
+    },
+    {
+      "id": "1.11.7.",
+      "text": "People with programming experience could be hire to teach coding in schools."
+    },
+    {
+      "id": "1.11.7.1.",
+      "text": "Programming and other tech industry careers usually pay significantly more than teaching roles. People therefore need other benefits to choose teaching over an industry role, but these are rare."
+    },
+    {
+      "id": "1.11.7.1.1.",
+      "text": "Computer Science should not necessarily be taught by a full-time teacher. It is also possible that software developers perform single courses voluntarily."
+    },
+    {
+      "id": "1.11.7.2.",
+      "text": "People with existing skills sets are better placed to teach higher levels of Computer Science qualifications."
+    },
+    {
+      "id": "1.12.",
+      "text": "Coding information is so widely available on the internet that  children with the potential to become talented coders will be able to teach themselves."
+    },
+    {
+      "id": "1.12.1.",
+      "text": "The same applies for history and maths."
+    },
+    {
+      "id": "1.12.2.",
+      "text": "Self learning a complex system like JavaScript or Python is extremely difficult. There are adult programmers who find it difficult to learn new technologies. It would be even harder for children."
+    },
+    {
+      "id": "1.12.3.",
+      "text": "Self learning complex systems is not difficult and many adult programmers find it easy to learn using online tools."
+    },
+    {
+      "id": "1.12.4.",
+      "text": "Teaching children \"coding\" is not only about actual coding (writing code), but also about the underlying concepts and fundamental ideas. These are hard to grasp from texts only."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.2.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.3.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.3.1.",
+      "target": "1.1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.3.2.",
+      "target": "1.1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.4.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.6.3.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.2.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.3.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.3.1.",
+      "target": "1.2.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.4.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.5.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.6.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.7.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.1.1.",
+      "target": "1.3.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.1.2.",
+      "target": "1.3.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.2.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.3.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.4.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.5.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.6.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.6.1.",
+      "target": "1.3.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.7.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.7.1.",
+      "target": "1.3.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.8.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.8.1.",
+      "target": "1.3.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.9.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.1.",
+      "target": "1.5.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.4.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.5.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.5.1.",
+      "target": "1.5.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.6.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.7.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.7.1.",
+      "target": "1.5.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.8.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.1.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.1.",
+      "target": "1.6.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.2.",
+      "target": "1.6.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.3.",
+      "target": "1.6.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.4.",
+      "target": "1.6.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.5.",
+      "target": "1.6.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.6.",
+      "target": "1.6.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.3.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.3.1.",
+      "target": "1.6.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.3.2.",
+      "target": "1.6.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.3.3.",
+      "target": "1.6.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.4.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.5.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.5.1.",
+      "target": "1.6.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.5.2.",
+      "target": "1.6.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.5.3.",
+      "target": "1.6.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.5.4.",
+      "target": "1.6.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.5.5.",
+      "target": "1.6.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.6.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.2.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.3.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.3.1.",
+      "target": "1.7.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.1.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.1.1.",
+      "target": "1.8.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.2.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.3.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.",
+      "target": "1.9.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.1.1.",
+      "target": "1.9.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.2.",
+      "target": "1.9.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.3.",
+      "target": "1.9.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.4.",
+      "target": "1.9.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.2.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.3.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.4.",
+      "target": "1.9.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.4.1.",
+      "target": "1.9.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.5.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.6.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.6.1.",
+      "target": "1.9.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.7.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.7.1.",
+      "target": "1.9.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.7.2.",
+      "target": "1.9.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.7.3.",
+      "target": "1.9.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.7.4.",
+      "target": "1.9.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.7.5.",
+      "target": "1.9.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.7.6.",
+      "target": "1.9.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.9.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.10.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.10.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.1.",
+      "target": "1.11.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.2.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.3.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.4.",
+      "target": "1.11.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.4.1.",
+      "target": "1.11.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.5.",
+      "target": "1.11.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.6.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.11.7.",
+      "target": "1.11.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.7.1.",
+      "target": "1.11.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.7.1.1.",
+      "target": "1.11.7.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.7.2.",
+      "target": "1.11.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.1.",
+      "target": "1.12.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.2.",
+      "target": "1.12.",
+      "type": "attack"
+    },
+    {
+      "source": "1.12.3.",
+      "target": "1.12.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.4.",
+      "target": "1.12.",
+      "type": "attack"
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Cats are more preferred by humans than dogs."
+    },
+    {
+      "id": "1.1.",
+      "text": "Cats ownership uses less resources."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "Cats eat less food and drink less water than most dogs."
+    },
+    {
+      "id": "1.1.2.",
+      "text": "Cats do not require bathing and grooming like dogs."
+    },
+    {
+      "id": "1.1.3.",
+      "text": "Cats do not need to be walked every day."
+    },
+    {
+      "id": "1.1.4.",
+      "text": "Small dog breeds can be cheaper to own than dogs."
+    },
+    {
+      "id": "1.1.5.",
+      "text": "A study shows that dogs cost nearly twice as much as cats in their first year."
+    },
+    {
+      "id": "1.2.",
+      "text": "Dogs can interact with humans more playfully than cats."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "There are cat breeds that are playful, and are characterized as acting like a dog. This shows that playfulness is a trait more prominent in dogs than cats."
+    },
+    {
+      "id": "1.2.2.",
+      "text": "Cat bites are safer for humans than dog bites."
+    },
+    {
+      "id": "1.2.3.",
+      "text": "Kittens can be very playful."
+    },
+    {
+      "id": "1.2.3.1.",
+      "text": "Dogs remain playful even as adults."
+    },
+    {
+      "id": "1.2.4.",
+      "text": "A study found that dog owners laugh more frequently that cat owners in the presence of their respective pets. Laughter is an indication of positive interactions."
+    },
+    {
+      "id": "1.2.5.",
+      "text": "Dogs respond to tone, voice and their names. Even though cats recognize their names, they most often ignore their owners when they are called."
+    },
+    {
+      "id": "1.2.6.",
+      "text": "In terms of intelligence, bonding, and obedience, dogs are superior to cats. This makes them better companions and friends."
+    },
+    {
+      "id": "1.3.",
+      "text": "Cats are cleaner than dogs."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "Adult cats spend up to 50% of their waking hours grooming."
+    },
+    {
+      "id": "1.3.2.",
+      "text": "Cats do not have body odors due to their cleanliness. Dogs, on the other hand, have a distinct odor."
+    },
+    {
+      "id": "1.4.",
+      "text": "Animals have personalities just like humans: for this reason, some cats will be 'better' than dogs and vice versa. It is impossible to say that all of one species is better than all of the other."
+    },
+    {
+      "id": "1.4.1.",
+      "text": "What is preferred by humans is a matter of personal preference and is therefore too subjective to be determined in absolute terms."
+    },
+    {
+      "id": "1.4.2.",
+      "text": "Different breeds of both cats and dogs are known for their differing personality traits."
+    },
+    {
+      "id": "1.4.2.1.",
+      "text": "Only certain dog breeds are chosen to be service dogs based on their trainability and temperament."
+    },
+    {
+      "id": "1.4.2.2.",
+      "text": "A study found that, as in humans, behavioural traits in dogs vary as they are partly determined by genetics, which vary from breed to breed."
+    },
+    {
+      "id": "1.4.3.",
+      "text": "Although it can be said that there is a spectrum of intensity when it comes to shared personality traits, any given species will still exhibit the same approximate traits. Relatively speaking, the difference from individual to individual is not great."
+    },
+    {
+      "id": "1.5.",
+      "text": "Cats are more intelligent than dogs."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "Research has found that cats have played a significant role in making 40 dog species extinct, outcompeting them for scarce food supplies because they are generally more effective hunters."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "A study has proven that dogs have twice the number of neurons in their cerebral cortexes as cats, which suggests they could be about twice as intelligent."
+    },
+    {
+      "id": "1.5.2.1.",
+      "text": "Some scientists argue that it is how complexly neurons or nerve cells and synapses are organized in the brain that determines intelligence, and not their sheer number."
+    },
+    {
+      "id": "1.5.2.2.",
+      "text": "Humans and primate animals, the most intelligent species categories on Earth, have the largest number of neurons of any animal. This suggests a positive correlation between neuron count and intelligence."
+    },
+    {
+      "id": "1.5.3.",
+      "text": "Studies have shown that cats do not rely on their owners for safety and security as much as dogs do, and are more capable of living independently. This lack of dependency suggests a higher level of intelligence."
+    },
+    {
+      "id": "1.6.",
+      "text": "Cats do not shed fur as much."
+    },
+    {
+      "id": "1.6.1.",
+      "text": "Whether a dog or cat sheds a lot depends on their breed."
+    },
+    {
+      "id": "1.6.1.1.",
+      "text": "The extent to which a dog or cat sheds varies according to their fur type, which is in turn dependent on which breed they are."
+    },
+    {
+      "id": "1.6.1.2.",
+      "text": "Many dog and cat breeds are known especially for shedding less or more hair."
+    },
+    {
+      "id": "1.6.2.",
+      "text": "Dogs typically have more hair than cats because they are bigger."
+    },
+    {
+      "id": "1.6.3.",
+      "text": "That fur is easier to clean up"
+    },
+    {
+      "id": "1.7.",
+      "text": "Dogs have been domesticated by humans for far longer than cats have been."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "The first dog domestication processes are thought to have commenced around 25,000 years ago; the earliest domestic cats did not appear until around 4,000 years ago."
+    },
+    {
+      "id": "1.7.2.",
+      "text": "The domestication of dogs was a purposeful and deliberate act by humans, whereas cats domesticated themselves. The domestication of dogs is therefore much more easily measureable throughout history, so even if tame/domestic cats have in fact coexisted with humans for longer than dogs have, this is harder to timeline."
+    },
+    {
+      "id": "1.7.3.",
+      "text": "Cats have undergone fewer genetic changes than dogs in the process of \"domestication\". This implies that dogs are more tailored to our preferences than cats can be."
+    },
+    {
+      "id": "1.7.3.1.",
+      "text": "246 regions of the genome of dogs have been altered during domestication."
+    },
+    {
+      "id": "1.7.3.2.",
+      "text": "Wild and domestic cats showed no major difference in their genetic makeup."
+    },
+    {
+      "id": "1.7.4.",
+      "text": "The relatively late initial domestication of cats in human history is irrelevant to their current popularity, which now surpasses that of dogs."
+    },
+    {
+      "id": "1.7.4.1.",
+      "text": "Most people prefer dogs to cats."
+    },
+    {
+      "id": "1.7.4.1.1.",
+      "text": "Over 63% of pet owners own dogs, while only 43% own cats."
+    },
+    {
+      "id": "1.7.4.1.2.",
+      "text": "Dogs love their humans five times more than cats."
+    },
+    {
+      "id": "1.7.4.1.3.",
+      "text": "Cat allergies are more prevalent than allergies to dogs."
+    },
+    {
+      "id": "1.7.4.1.4.",
+      "text": "Dogs bond with humans similarly to how human babies bond with their mother, thus strengthening the bond."
+    },
+    {
+      "id": "1.7.4.2.",
+      "text": "The top 10 cat-owning countries in the world have an estimated 204 million felines; in comparison, the top 10 dog-owning countries have fewer than 173 million canines."
+    },
+    {
+      "id": "1.7.4.2.1.",
+      "text": "These numbers do not include multiple cat or dog households, which may account for the difference more than overall popularity."
+    },
+    {
+      "id": "1.7.4.2.1.1.",
+      "text": "In the US, cat owners have 1.8 cats, to dog owners having 1.6 dogs. This difference can contribute to there being more cats owned than dogs."
+    },
+    {
+      "id": "1.7.4.3.",
+      "text": "The number of domesticated cats is far less than the number of domesticated dogs."
+    },
+    {
+      "id": "1.8.",
+      "text": "Cats do not need as much attention."
+    },
+    {
+      "id": "1.8.1.",
+      "text": "In many countries, cats are perceived to be more streetwise and self-sufficient than dogs, meaning that in many countries the former are let out unaccompanied, while the latter must always be walked and watched by their human owners in public spaces."
+    },
+    {
+      "id": "1.8.1.1.",
+      "text": "Some dog breeds are better at survival than cats. The German shepherd dog is one example."
+    },
+    {
+      "id": "1.8.2.",
+      "text": "Cats are misread by humans; they do in fact openly express affection, desire and trust, but the signs of this are misinterpreted."
+    },
+    {
+      "id": "1.8.3.",
+      "text": "Cats are self-cleaning."
+    },
+    {
+      "id": "1.8.3.1.",
+      "text": "Even though cats clean themselves, they still need to be bathed."
+    },
+    {
+      "id": "1.9.",
+      "text": "Dogs have been loyal to men for thousands of years."
+    },
+    {
+      "id": "1.11.",
+      "text": "Dogs have more open attributes such as happiness."
+    },
+    {
+      "id": "1.11.2.",
+      "text": "A study showed that dogs playing with their owners had a 57.2% increase in their levels of oxytocin, a hormone triggered by social bonding and love-induced happiness. Cats' levels of oxytocin after the same activity only increased by 12%."
+    },
+    {
+      "id": "1.12.",
+      "text": "Cats are typically less expensive than dogs to care for."
+    },
+    {
+      "id": "1.12.1.",
+      "text": "In its first year, cats require approximately $200 less to care for than dogs."
+    },
+    {
+      "id": "1.12.2.",
+      "text": "Boarding costs for cats are less than most dogs due to their small size."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.2.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.3.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.4.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.5.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.2.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.3.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.3.1.",
+      "target": "1.2.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.4.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.5.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.6.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.2.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.1.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.2.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.2.1.",
+      "target": "1.4.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.2.2.",
+      "target": "1.4.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.3.",
+      "target": "1.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.2.1.",
+      "target": "1.5.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.2.2.",
+      "target": "1.5.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.1.",
+      "target": "1.6.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.1.1.",
+      "target": "1.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.1.2.",
+      "target": "1.6.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.3.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.2.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.3.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.3.1.",
+      "target": "1.7.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.3.2.",
+      "target": "1.7.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.4.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.4.1.",
+      "target": "1.7.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.4.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.4.1.1.",
+      "target": "1.7.4.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.4.1.2.",
+      "target": "1.7.4.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.4.1.3.",
+      "target": "1.7.4.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.4.1.4.",
+      "target": "1.7.4.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.4.2.",
+      "target": "1.7.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.4.2.1.",
+      "target": "1.7.4.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.4.2.1.1.",
+      "target": "1.7.4.2.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.4.3.",
+      "target": "1.7.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.1.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.1.1.",
+      "target": "1.8.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.2.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.2.",
+      "target": "1.11.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.3.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.3.1.",
+      "target": "1.8.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.11.2.",
+      "target": "1.11.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.1.",
+      "target": "1.12.",
+      "type": "support"
+    },
+    {
+      "source": "1.12.2.",
+      "target": "1.12.",
+      "type": "support"
+    }
+  ]
+}

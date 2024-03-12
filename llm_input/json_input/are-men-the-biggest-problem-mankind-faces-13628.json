@@ -1,0 +1,217 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Men are the biggest problem mankind faces."
+    },
+    {
+      "id": "1.1.",
+      "text": "Men may cause a lot of societal ills, but they are also the backbone of every known society, and are the main group in charge of providing every major service required to run it."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "This may be more to do with institutionalised sexism than any particular good on the part of men."
+    },
+    {
+      "id": "1.1.1.1.",
+      "text": "Sexes came before institutions, 'sexist institutions' have formed around the different gender's natural capabilities, ergo they are not in fact sexist, different genders just suit different roles."
+    },
+    {
+      "id": "1.1.1.1.1.",
+      "text": "The biological capabilities and tenancies of men and women are different. Men are physically stronger then women and they are also take more risks than women. Meaning they're more likely to take jobs that are more strenuous as well as more dangerous."
+    },
+    {
+      "id": "1.1.1.2.",
+      "text": "Regardless of how the men came into those roles that is where they are now and society depends on them to continue to do them otherwise everything falls apart."
+    },
+    {
+      "id": "1.1.1.2.1.",
+      "text": "The fact men continue to do these roles despite the danger and frequently inferior pay could be described a positive."
+    },
+    {
+      "id": "1.2.",
+      "text": "Traditionally, women raise men; there is also a prevalence of single parent families, where the vast majority are female-headed. As a result, women have a major part to play in making the men that are causing problems for society."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "Women cannot be expected to tackle systemic issues like misogyny on their own. Arguably, young men are influenced by their peers and older men in social settings that are not accessible not women (especially mothers)."
+    },
+    {
+      "id": "1.2.2.",
+      "text": "It is misogynistic to suggest that women are at fault for the actions of men who oppress them."
+    },
+    {
+      "id": "1.3.",
+      "text": "Men, as a gender, in general will not evolve as this is a hormonal question."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "Gender traits do evolve. You can see this in the prevalence in gender differentiation between chimps and humans. Penis size, permanently enlarged mammary glands, etc."
+    },
+    {
+      "id": "1.4.",
+      "text": "It is wrong to attribute the ills of society to specifically men."
+    },
+    {
+      "id": "1.4.1.",
+      "text": "It cannot be 'men' in general: each man is different, and some don't have the flaws that are often attributed to men."
+    },
+    {
+      "id": "1.4.2.",
+      "text": "This has absolutely nothing to do with 'males'. The desire for power is a thing for both men and women, and even for all animals. Women might not rule very often, but when they do they have no issue with war."
+    },
+    {
+      "id": "1.4.3.",
+      "text": "As the historically dominant gender, men have been directly responsible for creating the society, along with all its ills."
+    },
+    {
+      "id": "1.5.",
+      "text": "Education will never be available to all people, so there has to be a cultural shift before change can prevail."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "The access to education is increasing all around the world. We can be optimistic, and believe that it will eventually be available to all people."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "Teaching your child respect for all humans, regardless of gender, is independent of academic education, but rather contingent on one's personal views."
+    },
+    {
+      "id": "1.6.",
+      "text": "As humans, not machines, we will always have problems with upbringing, DNA and education; men are not going to easily be able to change."
+    },
+    {
+      "id": "1.7.",
+      "text": "Religion and culture will eventually disappear, and so will the need to conform to such strictures."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "In many countries the practice of religion have drastically reduced over time. Each generation is less religious than the former, this will continue until religion is only practiced by minorities in the world."
+    },
+    {
+      "id": "1.7.2.",
+      "text": "Culture is inherent to the human condition. Unless we are replaced by robots, culture won't disappear."
+    },
+    {
+      "id": "1.7.3.",
+      "text": "Part of religion\u2019s appeal is that it offers a feel of security in an uncertain world. Religion won't disappear because sources of insecurity will always exist."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.1.",
+      "target": "1.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.1.1.",
+      "target": "1.1.1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.1.2.",
+      "target": "1.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.2.1.",
+      "target": "1.1.1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.2.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.1.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.2.",
+      "target": "1.4.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.3.",
+      "target": "1.4.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.2.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.3.",
+      "target": "1.7.",
+      "type": "attack"
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "\"Killer Drones\" are an acceptable weapon in war."
+    },
+    {
+      "id": "1.1.",
+      "text": "Killer drones provide an effective deterrence weapon that is not extremely damaging for future generations."
+    },
+    {
+      "id": "1.1.1.",
+      "text": "Russia has developed an underwater drone capable of carrying a 100-megaton nuclear bomb, which could be very damaging for future generations."
+    },
+    {
+      "id": "1.1.1.1.",
+      "text": "The problem there is not the \"drone\" part, but the nuclear part."
+    },
+    {
+      "id": "1.2.",
+      "text": "Killer drones will increase the number of fatalities in war."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "Drones allow for less accountability, and thus politicians will be more likely to authorize their use."
+    },
+    {
+      "id": "1.2.2.",
+      "text": "Drones allow selection of more specific targets, decreasing loss of life as a result of collateral damage or an invading force."
+    },
+    {
+      "id": "1.2.2.1.",
+      "text": "Drones are fairly cheap and therefore operators are more willing to loose them."
+    },
+    {
+      "id": "1.2.2.2.",
+      "text": "The maneoverability of drones allows them to get close to the target."
+    },
+    {
+      "id": "1.3.",
+      "text": "Countries with superior technology are at an advantage."
+    },
+    {
+      "id": "1.3.1.",
+      "text": "With great power comes great responsibility."
+    },
+    {
+      "id": "1.3.2.",
+      "text": "The majority of countries with operational armed drones are mostly (but not exclusively) wealthy."
+    },
+    {
+      "id": "1.3.3.",
+      "text": "Throughout history, civilizations with superior technology were also the civilizations that were also more advanced in terms of human rights. The more valuable the human life is, so more valuable is the human sacrifice and labour, therefore the need of scientists and engineers to advance the technology rises."
+    },
+    {
+      "id": "1.4.",
+      "text": "This kind of warfare could stoke a global drone arms race."
+    },
+    {
+      "id": "1.5.",
+      "text": "Countries with inferior technology are at an disadvantage."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "Countries with inferior technology are always at a disadvantage, and yet they often find ways of beating a superior force."
+    },
+    {
+      "id": "1.5.1.1.",
+      "text": "The most high-tech solution is not always the best solution in warfare."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "Countries with inferior technology often lose to superior technology."
+    },
+    {
+      "id": "1.5.3.",
+      "text": "Drones are cheaper than most other high tech military options and cost much less than employing soldiers in the long term."
+    },
+    {
+      "id": "1.5.3.1.",
+      "text": "Soldiers with debilitating physical or psychological injuries could need care for the rest of their lives, paid for by the government."
+    },
+    {
+      "id": "1.6.",
+      "text": "Countries that place a higher value on human life are at advantage."
+    },
+    {
+      "id": "1.6.1.",
+      "text": "With this advantage, countries that value human life would be more likely to win wars, and thus spread their values to more places, raising the value of human life around the world."
+    },
+    {
+      "id": "1.6.2.",
+      "text": "Using technology to fight other technology instead of people would reduce the number of battlefield deaths. This would be positive for you and your allies."
+    },
+    {
+      "id": "1.7.",
+      "text": "Seen as \"cowardice\" by some cultures."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "The use of arrows and firearms was also seen as cowardice."
+    },
+    {
+      "id": "1.7.1.1.",
+      "text": "In Japan it was considered bad form for samurais to abandon the use of the sword when firearms were introduced."
+    },
+    {
+      "id": "1.7.2.",
+      "text": "Subjective cultural understandings of a given weapon should not determine the global acceptability of its use."
+    },
+    {
+      "id": "1.7.3.",
+      "text": "Drone operators face no danger during missions."
+    },
+    {
+      "id": "1.7.3.1.",
+      "text": "Studies have shown that drone pilots frequently experience psychological trauma, suggesting that using a drone does not diminish the reality or ethical significance of their actions."
+    },
+    {
+      "id": "1.8.",
+      "text": "By making drone warfare very similar to video games, drone warfare makes combat too easy by diminishing ethical decisions."
+    },
+    {
+      "id": "1.8.2.",
+      "text": "Since no soldiers of the aggressor country are at risk, they risk nothing other than metal parts built in a factory. Thus it is easy to \"just do a drone strike\" since no life can be lost on the side of the aggressor."
+    },
+    {
+      "id": "1.8.3.",
+      "text": "With distance from the ethical implications, it's very easy to enter into gratuitous use of drones."
+    },
+    {
+      "id": "1.8.3.1.",
+      "text": "This could potentially lead to a distinct increase in \"potential combatant\" casualties, a path leading to increased civilian causalities."
+    },
+    {
+      "id": "1.9.",
+      "text": "Drones exercise pressure on terrorist organizations: as drones can constantly survey terrorists' movements from the sky, the terrorists' training and operations are seriously hindered."
+    },
+    {
+      "id": "1.9.1.",
+      "text": "Drones are a poor way of combatting terrorism."
+    },
+    {
+      "id": "1.9.1.1.",
+      "text": "The use of drones has largely replaced attempts to capture individual terrorist leaders, meaning they can no longer be interrogated for useful information."
+    },
+    {
+      "id": "1.9.1.2.",
+      "text": "Terrorist organisations use drones strikes and the associated harm to civilians as a recruitment tool."
+    },
+    {
+      "id": "1.9.1.3.",
+      "text": "Using drones puts fewer soldiers' lives at risk."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.1.",
+      "target": "1.1.1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.2.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.2.1.",
+      "target": "1.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.2.2.",
+      "target": "1.2.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.1.",
+      "target": "1.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.2.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.3.",
+      "target": "1.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.1.",
+      "target": "1.5.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.3.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.3.1.",
+      "target": "1.5.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.1.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.2.",
+      "target": "1.6.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.1.",
+      "target": "1.7.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.2.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.3.",
+      "target": "1.7.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.3.1.",
+      "target": "1.7.3.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.3.1.",
+      "target": "1.8.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.2.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.3.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.3.1.",
+      "target": "1.8.3.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.1.",
+      "target": "1.9.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.1.",
+      "target": "1.9.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.1.2.",
+      "target": "1.9.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.1.3.",
+      "target": "1.9.1.",
+      "type": "attack"
+    }
+  ]
+}

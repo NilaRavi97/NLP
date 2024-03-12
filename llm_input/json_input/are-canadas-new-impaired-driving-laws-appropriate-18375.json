@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "Canada's new impaired driving laws regarding cannabis are appropriate and will not need major revision."
+    },
+    {
+      "id": "1.1.",
+      "text": "It was illegal to drive high before anyway, all the added laws just take something that was already frowned upon and made it so you could go to jail for 5 years for being a stoner and driving sober."
+    },
+    {
+      "id": "1.2.",
+      "text": "Legal comparison suggests the 2ng/ml is too strict."
+    },
+    {
+      "id": "1.2.1.",
+      "text": "Colorado considers a 5ng/ml limit."
+    },
+    {
+      "id": "1.2.2.",
+      "text": "In Australia driving is illegal at any rate of detectable blood THC concentration."
+    },
+    {
+      "id": "1.2.2.1.",
+      "text": "Cannabis isn't recreationally legal in Australia, and therefore is not a suitable legal comparison."
+    },
+    {
+      "id": "1.3.",
+      "text": "We need a strict regulation to make sure there are no more dangerous drivers on the road due to cannabis."
+    },
+    {
+      "id": "1.4.",
+      "text": "Innocent people could be fined or falsely imprisoned due to improper regulation."
+    },
+    {
+      "id": "1.5.",
+      "text": "Because alcohol has a legal limit and is an intoxicant, cannabis should have one too."
+    },
+    {
+      "id": "1.5.1.",
+      "text": "Testing blood THC levels are not as reliable for 'intoxication' as testing for blood alcohol levels. Therefore, the legal restrictions cannot be equal."
+    },
+    {
+      "id": "1.5.1.1.",
+      "text": "Depending on method of intake, levels found in blood can greatly vary, without an accurate depiction of intoxication levels."
+    },
+    {
+      "id": "1.5.2.",
+      "text": "Cannabis is considered an intoxicant, like alcohol."
+    },
+    {
+      "id": "1.5.2.1.",
+      "text": "Cannabis has a completely different effect on the brain, thus they cannot be compared."
+    },
+    {
+      "id": "1.5.3.",
+      "text": "Because they are two different substances that affect the brain differently and to varying degrees, they cannot be treated exactly equal based on the arbitrary fact that they both do affect the brain. i.e. we don't treat adderall like alcohol. if we were to legalize psilocybin mushrooms we wouldn't treat them like alcohol."
+    },
+    {
+      "id": "1.5.4.",
+      "text": "Like driving under the influence of alcohol, driving under the influence of cannabis presents more risks on the road than having none in one's system."
+    },
+    {
+      "id": "1.6.",
+      "text": "Someone who only smokes occasionally could smoke something too strong and be too impaired to drive."
+    },
+    {
+      "id": "1.7.",
+      "text": "Most of the time when someone is too high to drive, they wouldn't think of getting behind the wheel because they know they're too high."
+    },
+    {
+      "id": "1.7.1.",
+      "text": "This is akin to trusting someone under the influence of alcohol. Intoxicants impair judgement, therefore, its imperative to enforce similar laws."
+    },
+    {
+      "id": "1.8.",
+      "text": "Someone who smokes frequently could be fined/imprisoned just because they have some the in their body due to build up in the system. They could be completely sober."
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.1.",
+      "target": "1.2.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.2.",
+      "target": "1.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.2.2.1.",
+      "target": "1.2.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.1.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.1.1.",
+      "target": "1.5.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.2.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.5.2.1.",
+      "target": "1.5.2.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.3.",
+      "target": "1.5.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.4.",
+      "target": "1.5.",
+      "type": "support"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.1.",
+      "target": "1.7.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "attack"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "nodes": [
+    {
+      "id": "1.",
+      "text": "All cars should be run at very high revs (at the upper limit) sometimes to prevent carbon build up"
+    },
+    {
+      "id": "1.1.",
+      "text": "driving fast is life-threatening"
+    },
+    {
+      "id": "1.1.1.",
+      "text": "Nearly 1.3 million people die in road crashes each year, on average 3,287 deaths a day."
+    },
+    {
+      "id": "1.2.",
+      "text": "Very high rpms produce high temperatures which burns off built up carbon"
+    },
+    {
+      "id": "1.3.",
+      "text": "Driving at very high revs can damage your car"
+    },
+    {
+      "id": "1.4.",
+      "text": "Carbon buildup is not a problem in modern cars"
+    },
+    {
+      "id": "1.5.",
+      "text": "If this was true, car manufacturers would recommend it in the manual"
+    },
+    {
+      "id": "1.6.",
+      "text": "There are mich better methods, this one only makes a slight difference and isn't worth the trouble"
+    },
+    {
+      "id": "1.7.",
+      "text": "Many mechanics recommend it"
+    },
+    {
+      "id": "1.8.",
+      "text": "It works just as well at 3000 rpm"
+    },
+    {
+      "id": "1.8.1.",
+      "text": "The user manual for my VW Passat 2.0 TDI diesel recommends regularly driving at between 2000-3500rpm for extended periods to help the DPF burn off carbon build up."
+    },
+    {
+      "id": "1.9.",
+      "text": "This does not apply to diesel engines"
+    },
+    {
+      "id": "1.9.1.",
+      "text": "It does apply to diesel engines with DPF because the higher exhaust gas temperatures help to burn off the soot caught in the DPF"
+    }
+  ],
+  "edges": [
+    {
+      "source": "1.1.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.1.1.",
+      "target": "1.1.",
+      "type": "support"
+    },
+    {
+      "source": "1.2.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.3.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.4.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.5.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.6.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.7.",
+      "target": "1.",
+      "type": "support"
+    },
+    {
+      "source": "1.8.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.8.1.",
+      "target": "1.8.",
+      "type": "support"
+    },
+    {
+      "source": "1.9.",
+      "target": "1.",
+      "type": "attack"
+    },
+    {
+      "source": "1.9.1.",
+      "target": "1.9.",
+      "type": "attack"
+    }
+  ]
+}
